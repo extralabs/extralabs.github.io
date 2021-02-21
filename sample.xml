@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS Sample Feed</title>
+    <description>RSS Sample Feed for ExtraLabs Feed Mix</description>
+    <link>http://www.extralabs.net</link>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <lastBuildDate>Sat, 5 Mar 2005 19:47:15 +0300</lastBuildDate>
+    <pubDate>Sun, 15 May 2005 01:20:37 +0300</pubDate>
+    <generator>Feed Editor [www.extralabs.net]</generator>
+    <item>
+      <title>What is Feed Mix?</title>
+      <description>Feed Mix is not just an RSS reader, it can also edit existing feed or create a new one, or even form a totally new feed from several existing one and then publish it to the web site.</description>
+      <link>http://www.extralabs.net/rss-aggregator.htm</link>
+      <pubDate>Sun, 15 May 2005 01:19:17 +0300</pubDate>
+    </item>
+    <item>
+      <title>What&apos;s new in Feed Mix?</title>
+      <description>Version 4.0 - on Jule, 30th 2005&lt;br&gt;
+&lt;br&gt;
+ - Many bugs was fixed&lt;br&gt;
+ - - The program is completely advanced&lt;br&gt;
+</description>
+      <link>http://www.extralabs.net/rss-aggregator.htm</link>
+      <pubDate>Sun, 15 May 2005 01:19:17 +0300</pubDate>
+    </item>
+    <item>
+      <title>How I can buy Feed Mix?</title>
+      <description>Feed Mix can be purchased via the Internet, fax, postal 
+mail, or phone. Details for each ordering method can be found 
+below. Feed Mix is licensed per computer. Every 
+computer you run a copy of Feed Mix on (after the 
+evaluation period has expired), requires its own license.
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=http://www.extralabs.net/purchase.htm&gt;Buy NOW (50% discount!!!)&lt;/a&gt;</description>
+      <link>http://www.extralabs.net/rss-aggregator.htm</link>
+      <pubDate>Sun, 15 May 2005 01:19:17 +0300</pubDate>
+    </item>
+  </channel>
+</rss>

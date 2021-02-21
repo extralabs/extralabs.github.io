@@ -1,0 +1,310 @@
+.topic 1055
+Field name: Feed Location
+
+Description: Direct URL to your feed
+
+Example: http://www.example.com/feed.xml
+.topic 1054
+Built-in GUID generator
+.topic 1053
+Field name: Image URL
+
+Description: Is the URL of a GIF, JPEG or PNG image that represents the feed
+
+Example: http://www.example.com/feeds/logo.jpg
+.topic 1052
+Field name: Image Link
+
+Description: Is the URL of the site, when the feed is rendered, the image is a link to the site
+
+Example: http://www.example.com/feeds/
+.topic 1051
+Field name: Image Description
+
+Description: Describes the image
+.topic 1050
+Field name: Image Title
+
+Description: Describes the image, it's used in the ALT attribute of the HTML &lt;img&gt; tag when the feed is rendered in HTML
+
+Example: All About Everything logo
+.topic 1049
+This box shows picture that belong to this podcast
+.topic 1048
+Field name: Item iTunes Block
+
+Description: Use this inside an &lt;item&gt; element to prevent that episode from appearing in the iTunes Podcast directory. For example, you may want a specific episode blocked from iTunes if its content might cause the feed to be removed from iTunes.
+
+.topic 1047
+Field name: Item iTunes Explicit
+
+Description: This field should be used to indicate whether or not your podcast item contains explicit material. The three values for this tag are &quot;yes&quot;, &quot;no&quot;, and &quot;clean&quot;
+
+Example: Clean
+.topic 1046
+Field name: Item iTunes Duration
+
+Description: The content of this field is shown in the Time column in iTunes
+
+Example: 00:12:43
+.topic 1045
+Field name: Item iTunes Author
+
+Description: The content of this field is shown in the Artist column in iTunes
+
+Example: John Doe
+.topic 1044
+Field name: Item iTunes Keywords
+
+Description: This field allows users to search on a maximum of 12 text keywords. Use commas to separate keywords
+
+Example: kids,family,school
+
+
+.topic 1043
+Field name: Item iTunes Summary
+
+Description: The contents of this field are shown in a separate window that appears when the &quot;circled i&quot; in the Description column is clicked. It also appears on the iTunes page for your podcast. This field can be up to 4000 characters
+
+Example: This week we talk about salt and pepper shakers, comparing and contrasting pour rates, construction materials, and overall aesthetics. Come and join the party!
+.topic 1042
+Field name: Item iTunes Subtitle
+
+Description: A short description that provides specific information for each episode. It will be appear in the Description column in iTunes. Limited to 255 characters or less, plain text, no HTML
+
+Example: Shake Shake Shake Your Spices
+.topic 1041
+Field name: Enclosure type
+
+Description: The MIME type of the file
+.topic 1040
+Local file on your computer
+.topic 1039
+Field name: Enclosure URL
+
+Description: The URL for the file. The proper syntax for the URL is to use the fully specified address that includes the scheme.
+
+Example: http://www.example.com/podcasts/podcast001.mp3
+.topic 1038
+Field name: Item isPermaLink
+
+Description: isPermaLink is optional, its default value is true. If its value is false, the guid may not be assumed to be a url, or a url to anything in particular
+
+
+.topic 1037
+Field name: Item GUID
+
+Description: A string that uniquely identifies the item
+
+Examples:
+E0D5E748-8EF3-4562-8232-C99824ACD328
+
+http://inessential.com/2002/09/01.php#a2
+.topic 1036
+Field name: Item Category (Domain)
+
+Description: Includes the item in one or more categories
+
+Example: Food &lt;http://del.icio.us/tag&gt;
+.topic 1035
+Field name: Item Source (URL)
+
+Description: The RSS feed that the item came from
+
+Example: Tomalak's Realm &lt;http://www.tomalak.org/links2.xml&gt;
+.topic 1034
+Field name: Item Comments
+
+Description: URL of a page for comments relating to the item
+
+Example: http://www.myblog.org/cgi-local/mt/mt-comments.cgi?entry_id=290
+.topic 1033
+Field name: Item Author
+
+Description: Email address of the author of the item
+
+Example: contact@example.com
+.topic 1032
+Field name: Item Pub Date
+
+Description: Its value is a date, indicating when the item was published
+
+Example: 19 Apr 2007 15:21:36 GMT
+.topic 1031
+Field name: Item Link
+
+Description: The URL of the item
+
+Example: http://www.example.com/news001.html
+.topic 1030
+Field name: Item Description
+
+Description: A summary of the full content that the item was created to represent
+
+Example: Shake Shake Shake Your Spices
+.topic 1029
+Field name: Item Title
+
+Description: The name of the feed item
+
+Example: Shake Shake Shake Your Spices
+.topic 1028
+Field name: iTunes Explicit
+
+Description: This field should be used to indicate whether or not your podcast contains explicit material. The three values for this tag are &quot;yes&quot;, &quot;no&quot;, and &quot;clean&quot;
+
+Example: Clean
+.topic 1027
+Field name: iTunes Email
+
+Description: This field contains information that will be used to contact the owner of the podcast for communication specifically about their podcast. It will not be publicly displayed
+
+Example: contact@example.com
+.topic 1026
+Field name: iTunes Owner
+
+Description: This field contains information that will be used to contact the owner of the podcast for communication specifically about their podcast. It will not be publicly displayed
+
+Example: John Doe
+.topic 1025
+Field name: iTunes Author
+
+Description: The content of this field is shown in the Artist column in iTunes
+
+Example: John Doe
+.topic 1024
+Field name: iTunes Keywords
+
+Description: This field allows users to search on a maximum of 12 text keywords. Use commas to separate keywords
+
+Example: kids,family,school
+.topic 1023
+Field name: iTunes Image
+
+Description: This field specifies the artwork for the podcast. Preferred size - 300 pixels x 300 pixels. iTunes supports images in JPEG and PNG formats
+
+Example: http://www.example.com/podcast/logo.png
+.topic 1022
+Click here to remove iTunes category
+.topic 1021
+Click here to add iTunes category
+.topic 1020
+Field name: iTunes Categories
+
+Description: This field can only be populated using iTunes specific categories. Some categories can have sub categories
+.topic 1019
+Field name: iTunes Summary
+
+Description: The contents of this field are shown in a separate window that appears when the &quot;circled i&quot; in the Description column is clicked. It also appears on the iTunes page for your podcast. This field can be up to 4000 characters
+
+Example: All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can.
+.topic 1018
+Field name: iTunes Subtitle
+
+Description: The contents of this field are shown in the Description column in iTunes. The subtitle displays best if it is only a few words long. This field can be up to 255 characters
+
+Example: A show about everything
+.topic 1017
+The feed encoding
+
+Example: UTF-8
+.topic 1016
+Field name: Language
+
+Description: The language of a feed
+
+Example: English (United States): en-us
+.topic 1015
+Field name: skipHours
+
+Description: RSS readers/aggregators may not read the feed during hours listed in the skipHours element
+
+Example: 0, 1, 2, 3, 4, 5, 6, 7
+.topic 1014
+Field name: skipDays
+
+Description: RSS readers/aggregators may not read the feed during days listed in the skipDays element
+
+Example: Saturday, Sunday
+.topic 1013
+XSL Stylesheet is using for formatting RSS
+.topic 1012
+Field name: Category Domain
+
+Description: Optional Category attribute
+
+Example: http://del.icio.us/tag
+.topic 1011
+Field name: Category
+
+Description: Specify one or more categories that the feed belongs to
+
+Example: Food
+.topic 1010
+Field name: Docs
+
+Description: A URL that points to the documentation for the format used in the feed
+
+Example: http://blogs.law.harvard.edu/tech/rss
+.topic 1009
+Field name: TTL
+
+Description: TTL = &quot;time to live&quot;. It's a number of minutes that indicates how long a feed can be cached before refreshing from the source
+
+Example: 60
+.topic 1008
+Field name: Copyright
+
+Description: Copyright notice for content in the feed
+
+Example: Copyright 2008, Spartanburg Herald-Journal
+.topic 1007
+Field name: Editor (managingEditor)
+
+Description: Email address for person responsible for editorial content
+
+Example: geo@herald.com (George Matesky)
+.topic 1006
+Field name: webMaster
+
+Description: Email address for person responsible for technical issues relating to podcast
+
+Example: betty@herald.com (Betty Guernsey)
+.topic 1005
+Field name: PubDate
+
+Description: The publication date for the content in the feed
+
+Example: 17 Apr 2008 00:00:01 GMT
+.topic 1004
+Field name: Link
+
+Description: The URL to the HTML website corresponding to the feed
+
+Example: http://www.example.com/
+.topic 1003
+Field name: Description
+
+Description: Phrase or sentence describing the feed
+
+Example: All About Everything is a RSS feed about everything. Each week we dive into any subject known to man and talk about it as much as we can.
+.topic 1002
+Field name: Title
+
+Description: The name of the feed
+
+Example: All About Everything
+.topic 1001
+This list shows all the items that make up the current feed
+.topic 994
+The text in this field will be automatically added to the end of the Description field for each new feed item
+.topic 995
+The text in this field will be automatically added at the beginning of the Description field for each new feed item
+.topic 996
+This checkbox enables/disables the support of Apple iTunes extensions for your podcast
+.topic 997
+If selected, Pub Date will be automatically updated when the feed is published
+.topic 998
+Enter the search text and click the button with binoculars on it to jump to the item containing the search text
+.topic 999
+This list includes all your RSS and podcast feeds

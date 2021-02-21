@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<generator>Feed Editor</generator>
+	<pubDate>23 Apr 2006 22:07:47 GMT</pubDate>
+	<title>ExtraLabs Software News</title>
+	<description>&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;IMG alt="" hspace=0 src="http://www.extralabs.net/logo.gif" align=baseline border=0&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;Founded in 2002, ExtraLabs Software is a dynamically expanding software development company, focused on producing NET software for home and corporate users. We build our success on the talent and experience of our developers and ideas of our clients who inspire and guide our work in bringing to life powerful capabilities and innovative software tools.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;A href="http://www.extralabs.net/products.htm"&gt;Our products&lt;/A&gt;&lt;/FONT&gt;&lt;/P&gt;</description>
+	<link>http://www.extralabs.net</link>
+	<copyright>ExtraLabs Software 2002-2006</copyright>
+	<managingEditor>dmitry@extralabs.net</managingEditor>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<language>en-us</language>
+	<webMaster>dmitry@extralabs.net</webMaster>
+	<item>
+	<title>Free RSS to HTML Script Released!</title>
+	<description>&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;STRONG&gt;New Product Released: Feed2Html PHP Script 1.0&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;&lt;STRONG&gt;Free!&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;Free script that converts data from RSS feeds to HTML code. Publish your news both at RSS and Web pages easily!&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;A href="http://www.extralabs.net/feed2html.zip"&gt;&lt;FONT face=Verdana size=2&gt;Download&lt;/FONT&gt;&lt;/A&gt;&lt;/P&gt;</description>
+	<pubDate>26 Apr 2006 12:28:27 GMT</pubDate>
+	<link>http://www.extralabs.net/feed2html.htm</link>
+	</item>
+	<item>
+	<title>Feed Editor 3.6 Released!</title>
+	<description>&lt;P&gt;&lt;STRONG&gt;&lt;FONT face=Verdana size=2&gt;A new version of&amp;nbsp;Feed Editor&amp;nbsp;has been released. &lt;FONT color=#ff0000&gt;Now with iTunes support!&lt;/FONT&gt;&lt;/FONT&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;IMG alt="Feed Mix: Create, Edit, and Publish RSS feed or Pocast Easily!" hspace=0 src="http://www.extralabs.net/feed-editor-01-thumb.gif" align=baseline border=0&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;You don't need to be a computer science guru and learn Internet technologies. Our editor makes work with RSS feeds maximally simple.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;A href="http://www.extralabs.net/feed-editor.htm"&gt;Read more&lt;/A&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;A href="http://www.extralabs.net/FeedEditorSetup.exe"&gt;Download&lt;/A&gt;&lt;/FONT&gt;&lt;/P&gt;</description>
+	<pubDate>23 Apr 2006 22:04:06 GMT </pubDate>
+	<author>dmitry@extralabs.net</author>
+	</item>
+	<item>
+	<title>Feed Mix 4.3 Released!</title>
+	<description>&lt;P&gt;&lt;STRONG&gt;&lt;FONT face=Verdana size=2&gt;A new version of Feed Mix has been released.&lt;/FONT&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;IMG alt="Feed Mix: Create a new RSS feed from several others" hspace=0 src="http://www.extralabs.net/feed-mix-01-thumb.gif" align=baseline border=0&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;Feed Mix is a feature-rich RSS editor with the unique ability to create a new RSS feed from several others that already exist. &lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;A href="http://www.extralabs.net/feed-mix.htm"&gt;&lt;FONT face=Verdana size=2&gt;Read more&lt;/FONT&gt;&lt;/A&gt;&lt;FONT face=Verdana size=2&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;A href="http://www.extralabs.net/FeedMixSetup.exe"&gt;&lt;FONT face=Verdana size=2&gt;Download&lt;/FONT&gt;&lt;/A&gt; &lt;/P&gt;</description>
+	<pubDate>8 Apr 2006 11:00:06 GMT </pubDate>
+	<link>http://www.extralabs.net/feed-mix.htm</link>
+	</item>
+	<item>
+	<title>RSS Wizard 2.55 Released!</title>
+	<description>&lt;P&gt;&lt;STRONG&gt;&lt;FONT face=Verdana size=2&gt;A new version of&amp;nbsp;RSS Wizard&amp;nbsp;has been released.&lt;/FONT&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;IMG style="WIDTH: 128px; HEIGHT: 92px" alt="RSS Wizard: HTML to RSS converter, Editor and Publisher" hspace=0 src="http://www.extralabs.net/rss-wizard-01-thumb.gif" align=baseline border=0&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;Do you want to create RSS feeds dynamically with ease? RSS Wizard makes it possible!&lt;BR&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;A href="http://www.extralabs.net/rss-wizard.htm"&gt;Read more&lt;/A&gt;&lt;/FONT&gt;&lt;FONT face=Verdana size=2&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;A href="http://www.extralabs.net/RSSWizardSetup.exe"&gt;Download&lt;/A&gt;&lt;/FONT&gt; &lt;/P&gt;</description>
+	<pubDate>3 Apr 2006 11:04:08 GMT </pubDate>
+	<link>http://www.extralabs.net/rss-wizard.htm</link>
+	</item>
+	<item>
+	<title>Super Discounts: only in April</title>
+	<description>&lt;P&gt;&lt;FONT size=2&gt;&lt;FONT face=Verdana&gt;&lt;FONT color=#ff0000&gt;&lt;STRONG&gt;50% OFF!!! Only in April.&lt;/STRONG&gt;&lt;/FONT&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;You can register our products either Online, or by using one of the alternative ordering methods, such as Phone, Mail, via Fax, Purchase Order, PayPal, by Check, Cash, or Bank/Wire transfer.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;Registering gives you ability to absolutely free of charge software updates. Also nag-screen will be removed and locked features will be available.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;A href="http://www.extralabs.net/purchase.htm"&gt;Read more&lt;/A&gt;&lt;/FONT&gt;&lt;/P&gt;</description>
+	<pubDate>1 Apr 2006 11:06:22 GMT </pubDate>
+	<link>http://www.extralabs.net/purchase.htm</link>
+	</item>
+	<item>
+	<title>ExtraLabs Software: Support</title>
+	<description>&lt;FONT face=Verdana size=2&gt;Extralabs Software is looking for feedback from users. If you use RSS and need some tools for making your work more efficient then fill in the &lt;/FONT&gt;&lt;A href="http://www.extralabs.net/support.htm"&gt;&lt;FONT face=Verdana size=2&gt;form&lt;/FONT&gt;&lt;/A&gt;&lt;FONT face=Verdana size=2&gt; an press 'Send'! We'll try to write the program you need!&lt;/FONT&gt;</description>
+	<pubDate>2 Feb 2006 11:08:58 GMT </pubDate>
+	<link>http://www.extralabs.net</link>
+	</item>
+	</channel>
+</rss>
+

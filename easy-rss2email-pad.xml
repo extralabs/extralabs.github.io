@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.01</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.652</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-0056141E57B</Company_UIN>
+    <Company_Description></Company_Description>
+    <Product_UIN>APP-00751774432</Product_UIN>
+    <Search_String>Easy RSS Content Generator</Search_String>
+    <Search_String_Unique>Easy RSS Content Generator</Search_String_Unique>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Additional_Categories></Additional_Categories>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>ExtraLabs Software</Company_Name>
+    <Address_1>Aviamotornaya, 12, 56</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Moscow</City_Town>
+    <State_Province>Moscow</State_Province>
+    <Zip_Postal_Code>111116</Zip_Postal_Code>
+    <Country>Russian Federation</Country>
+    <Company_WebSite_URL>http://www.extralabs.net</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Dmitry</Contact_First_Name>
+      <Contact_Last_Name>Baranow</Contact_Last_Name>
+      <Contact_Email>support@extralabs.net</Contact_Email>
+      <Author_First_Name>Dmitry</Author_First_Name>
+      <Author_Last_Name>Baranow</Author_Last_Name>
+      <Author_Email>support@extralabs.net</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>support@extralabs.net</Sales_Email>
+      <Support_Email>support@extralabs.net</Support_Email>
+      <General_Email>support@extralabs.net</General_Email>
+      <Sales_Phone>+79035585307</Sales_Phone>
+      <Support_Phone>+79035585307</Support_Phone>
+      <General_Phone>+79035585307</General_Phone>
+      <Fax_Phone>+79035585307</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_VERSION>1.4</Affiliates_VERSION>
+    <Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+    <Affiliates_Regnow_Order_Page>http://www.regnow.com/softsell/nph-softsell.cgi?item=13371-8</Affiliates_Regnow_Order_Page>
+    <Affiliates_Regnow_Vendor_ID>13371</Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regnow_Product_ID>13371-8</Affiliates_Regnow_Product_ID>
+    <Affiliates_Regnow_Maximum_Commission_Rate>20%</Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_FORM_VER>1.4</Affiliates_FORM_VER>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_Cleverbridge_Order_Page></Affiliates_Cleverbridge_Order_Page>
+    <Affiliates_Cleverbridge_Vendor_ID></Affiliates_Cleverbridge_Vendor_ID>
+    <Affiliates_Cleverbridge_Product_ID></Affiliates_Cleverbridge_Product_ID>
+    <Affiliates_Cleverbridge_Maximum_Commission_Rate></Affiliates_Cleverbridge_Maximum_Commission_Rate>
+    <Affiliates_clixGalore_Order_Page></Affiliates_clixGalore_Order_Page>
+    <Affiliates_clixGalore_Vendor_ID></Affiliates_clixGalore_Vendor_ID>
+    <Affiliates_clixGalore_Product_ID></Affiliates_clixGalore_Product_ID>
+    <Affiliates_clixGalore_Maximum_Commission_Rate></Affiliates_clixGalore_Maximum_Commission_Rate>
+    <Affiliates_CommissionJunction_Order_Page></Affiliates_CommissionJunction_Order_Page>
+    <Affiliates_CommissionJunction_Vendor_ID></Affiliates_CommissionJunction_Vendor_ID>
+    <Affiliates_CommissionJunction_Product_ID></Affiliates_CommissionJunction_Product_ID>
+    <Affiliates_CommissionJunction_Maximum_Commission_Rate></Affiliates_CommissionJunction_Maximum_Commission_Rate>
+    <Affiliates_LinkShare_Order_Page></Affiliates_LinkShare_Order_Page>
+    <Affiliates_LinkShare_Vendor_ID></Affiliates_LinkShare_Vendor_ID>
+    <Affiliates_LinkShare_Product_ID></Affiliates_LinkShare_Product_ID>
+    <Affiliates_LinkShare_Maximum_Commission_Rate></Affiliates_LinkShare_Maximum_Commission_Rate>
+    <Affiliates_OneNetworkDirect_Order_Page></Affiliates_OneNetworkDirect_Order_Page>
+    <Affiliates_OneNetworkDirect_Vendor_ID></Affiliates_OneNetworkDirect_Vendor_ID>
+    <Affiliates_OneNetworkDirect_Product_ID></Affiliates_OneNetworkDirect_Product_ID>
+    <Affiliates_OneNetworkDirect_Maximum_Commission_Rate></Affiliates_OneNetworkDirect_Maximum_Commission_Rate>
+    <Affiliates_Plimus_Order_Page></Affiliates_Plimus_Order_Page>
+    <Affiliates_Plimus_Vendor_ID></Affiliates_Plimus_Vendor_ID>
+    <Affiliates_Plimus_Product_ID></Affiliates_Plimus_Product_ID>
+    <Affiliates_Plimus_Maximum_Commission_Rate></Affiliates_Plimus_Maximum_Commission_Rate>
+    <Affiliates_Shareasale_Order_Page></Affiliates_Shareasale_Order_Page>
+    <Affiliates_Shareasale_Vendor_ID></Affiliates_Shareasale_Vendor_ID>
+    <Affiliates_Shareasale_Product_ID></Affiliates_Shareasale_Product_ID>
+    <Affiliates_Shareasale_Maximum_Commission_Rate></Affiliates_Shareasale_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_DigiBuy_Order_Page></Affiliates_DigiBuy_Order_Page>
+    <Affiliates_DigiBuy_Vendor_ID></Affiliates_DigiBuy_Vendor_ID>
+    <Affiliates_DigiBuy_Product_ID></Affiliates_DigiBuy_Product_ID>
+    <Affiliates_DigiBuy_Maximum_Commission_Rate></Affiliates_DigiBuy_Maximum_Commission_Rate>
+    <Affiliates_DigitalCandle_Order_Page></Affiliates_DigitalCandle_Order_Page>
+    <Affiliates_DigitalCandle_Vendor_ID></Affiliates_DigitalCandle_Vendor_ID>
+    <Affiliates_DigitalCandle_Product_ID></Affiliates_DigitalCandle_Product_ID>
+    <Affiliates_DigitalCandle_Maximum_Commission_Rate></Affiliates_DigitalCandle_Maximum_Commission_Rate>
+    <Affiliates_Emetrix_Order_Page></Affiliates_Emetrix_Order_Page>
+    <Affiliates_Emetrix_Vendor_ID></Affiliates_Emetrix_Vendor_ID>
+    <Affiliates_Emetrix_Product_ID></Affiliates_Emetrix_Product_ID>
+    <Affiliates_Emetrix_Maximum_Commission_Rate></Affiliates_Emetrix_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Kagi_Order_Page></Affiliates_Kagi_Order_Page>
+    <Affiliates_Kagi_Vendor_ID></Affiliates_Kagi_Vendor_ID>
+    <Affiliates_Kagi_Product_ID></Affiliates_Kagi_Product_ID>
+    <Affiliates_Kagi_Maximum_Commission_Rate></Affiliates_Kagi_Maximum_Commission_Rate>
+    <Affiliates_NorthStarSol_Order_Page></Affiliates_NorthStarSol_Order_Page>
+    <Affiliates_NorthStarSol_Vendor_ID></Affiliates_NorthStarSol_Vendor_ID>
+    <Affiliates_NorthStarSol_Product_ID></Affiliates_NorthStarSol_Product_ID>
+    <Affiliates_NorthStarSol_Maximum_Commission_Rate></Affiliates_NorthStarSol_Maximum_Commission_Rate>
+    <Affiliates_Order1_Order_Page></Affiliates_Order1_Order_Page>
+    <Affiliates_Order1_Vendor_ID></Affiliates_Order1_Vendor_ID>
+    <Affiliates_Order1_Product_ID></Affiliates_Order1_Product_ID>
+    <Affiliates_Order1_Maximum_Commission_Rate></Affiliates_Order1_Maximum_Commission_Rate>
+    <Affiliates_Osolis_Order_Page></Affiliates_Osolis_Order_Page>
+    <Affiliates_Osolis_Vendor_ID></Affiliates_Osolis_Vendor_ID>
+    <Affiliates_Osolis_Product_ID></Affiliates_Osolis_Product_ID>
+    <Affiliates_Osolis_Maximum_Commission_Rate></Affiliates_Osolis_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+    <Affiliates_SWReg_Order_Page></Affiliates_SWReg_Order_Page>
+    <Affiliates_SWReg_Vendor_ID></Affiliates_SWReg_Vendor_ID>
+    <Affiliates_SWReg_Product_ID></Affiliates_SWReg_Product_ID>
+    <Affiliates_SWReg_Maximum_Commission_Rate></Affiliates_SWReg_Maximum_Commission_Rate>
+    <Affiliates_V-Share_Order_Page></Affiliates_V-Share_Order_Page>
+    <Affiliates_V-Share_Vendor_ID></Affiliates_V-Share_Vendor_ID>
+    <Affiliates_V-Share_Product_ID></Affiliates_V-Share_Product_ID>
+    <Affiliates_V-Share_Maximum_Commission_Rate></Affiliates_V-Share_Maximum_Commission_Rate>
+    <Affiliates_VFree_Order_Page></Affiliates_VFree_Order_Page>
+    <Affiliates_VFree_Vendor_ID></Affiliates_VFree_Vendor_ID>
+    <Affiliates_VFree_Product_ID></Affiliates_VFree_Product_ID>
+    <Affiliates_VFree_Maximum_Commission_Rate></Affiliates_VFree_Maximum_Commission_Rate>
+    <Affiliates_Yaskifo_Order_Page></Affiliates_Yaskifo_Order_Page>
+    <Affiliates_Yaskifo_Vendor_ID></Affiliates_Yaskifo_Vendor_ID>
+    <Affiliates_Yaskifo_Product_ID></Affiliates_Yaskifo_Product_ID>
+    <Affiliates_Yaskifo_Maximum_Commission_Rate></Affiliates_Yaskifo_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>support@extralabs.net</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Dmitry</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Baranow</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_Site_Title>Easy RSS2Email</Site_Site_Title>
+    <Site_Site_URL>http://www.extralabs.net/easy-rss2email.htm</Site_Site_URL>
+    <Site_Description_100>Easy RSS2Email allows you to automatically create e-mails from RSS feeds.</Site_Description_100>
+    <Site_Description_250>Easy RSS2Email is a program that is used to automatically create and send e-mail messages whose contents are retrieved from news feeds. The program has a convenient interface and is really easy to use.</Site_Description_250>
+    <Site_Keywords>email,maillist,rss,rss to email,mailing,rss2email,e-mail,news to email,news to e-mail</Site_Keywords>
+    <Site_Contact_First_Name>Dmitry</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Baranow</Site_Contact_Last_Name>
+    <Site_Contact_Email>support@extralabs.net</Site_Contact_Email>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Description_450></Site_Description_450>
+  </Site>
+  <Press_Release>
+    <Press_Release>For immediate release
+
+June 13 2008
+Contact: Dmitry Baranov
+Company: ExtraLabs Software
+
+Easy RSS2Email is a program that is used to automatically create and send e-mail messages whose contents are retrieved from news feeds. Besides the popular RSS format, the program also supports the Atom and RDF formats. It is possible to send message both in HTML and in plain text. Easy RSS2Email has a built-in word automatic replacement dictionary, allows you to mix up news feeds, filter feed topics by keywords. You can easily import and export e-mail addresses – the program supports all popular formats of text databases. It is possible to work using the command line. The program has a convenient interface and is really easy to use.
+
+To create your own newsletter, click the 'New Project' button on the toolbar of the main program window. In the 'New Project' dialog box specify the addresses of RSS (RDF, Atom) feeds, select one of the templates for final e-mail messages distributed together with the program, either manually enter the recipients' e-mail addresses or import them and click the 'OK' button. To start sending messages, click the 'Start' button on the toolbar of the main window. Easy RSS2Email will automatically load the news feed, do everything necessary and send messages. Try this new product right now and it is sure to meet all your expectations!
+
+Read more about Easy RSS2Email at http://www.extralabs.net/easy-rss2email.htm
+Download an evaluation version to try it for free http://www.extralabs.net/RSS2EmailSetup.exe
+
+
+Easy RSS2Email Pricing and Availability
+
+Easy RSS2Email runs under Windows 95/98/Me/2000/NT/XP/2003/Vista and costs $29.95 (USD). Registered customers are
+entitled to free lifetime updates and premium technical support. Discounts for volume buyers are available. Additional information on Easy RSS2Email, as well as its 30-day evaluation version is available from http://www.extralabs.net .
+
+
+About ExtraLabs Software
+
+ExtraLabs Software specializes in the development of RSS and podcasting software. The company was founded in 2002 by a
+team of Russian software engineers. ExtraLabs Software is the author of such products as "Feed Mix", an RSS reader with the
+editing ability; "Feed Editor", a fully-fledged RSS and podcast editor; "RSS Wizard", an HTML to RSS converter, "RSS
+Publisher", a free tool for publishing RSS Feeds, and "Image Assistant", a tool for batch-mode image processing. For more
+information, please visit http://www.extralabs.net .
+
+# # #
+
+An evaluation version of Easy RSS2Email is available for review purposes.</Press_Release>
+    <Summary>Easy RSS2Email is a program that is used to automatically create and send e-mail messages whose contents are retrieved from news feeds.</Summary>
+    <Headline>ExtraLabs Software unveils Easy RSS2Email - Automatic Email Newsletters!</Headline>
+  </Press_Release>
+  <Program_Info>
+    <Program_Name>Easy RSS2Email</Program_Name>
+    <Program_Version>2.02</Program_Version>
+    <Program_Release_Month>07</Program_Release_Month>
+    <Program_Release_Day>17</Program_Release_Day>
+    <Program_Release_Year>2009</Program_Release_Year>
+    <Program_Cost_Dollars>29.95</Program_Cost_Dollars>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinXP,Windows2000,Windows2003,Windows Vista Ultimate,Windows Vista Ultimate x64,Win98,WinME,WinNT 3.x,WinNT 4.x,Win95,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_System_Requirements>Pentium 100, 16 mb RAM</Program_System_Requirements>
+    <Program_Category_Class>Network &amp; Internet::Other</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>1686980</File_Size_Bytes>
+      <File_Size_K>1647</File_Size_K>
+      <File_Size_MB>1.61</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>30</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Email :: Mailing List Tools,Email :: Misc. Email Tools,Internet :: News Readers,Web Development :: Miscellaneous,Web Development :: Web Design Utilities,Web Development :: XML,Web Development :: Site Promotion,Internet :: Website Management,Internet :: Promotion</Program_Categories>
+    <Limitations>30-day trial</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Change_Info></Program_Change_Info>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.extralabs.net/easy-rss2email.htm</Application_Info_URL>
+      <Application_Order_URL>http://www.extralabs.net/purchase.htm</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.extralabs.net/easy-rss2email-01.gif</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.extralabs.net/feed-editor-icon.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.extralabs.net/easy-rss2email-pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.extralabs.net/RSS2EmailSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>http://www.extralabs.net/RSS2EmailSetup.zip</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions></Distribution_Permissions>
+    <EULA></EULA>
+  </Permissions>
+  <Program_Descriptions>
+    <English>
+      <Keywords>email,maillist,rss,rss to email,mailing,rss2email,e-mail,news to email,news to e-mail</Keywords>
+      <Char_Desc_45>Creating and sending emails from RSS feeds.</Char_Desc_45>
+      <Char_Desc_80>Easy RSS2Email allows you to automatically create e-mails from RSS feeds.</Char_Desc_80>
+      <Char_Desc_250>Easy RSS2Email is a program that is used to automatically create and send e-mail messages whose contents are retrieved from news feeds. The program has a convenient interface and is really easy to use.</Char_Desc_250>
+      <Char_Desc_450>Easy RSS2Email is a program that is used to automatically create and send e-mail messages whose contents are retrieved from news feeds. Besides the popular RSS format, the program also supports the Atom and RDF formats. It is possible to send message both in HTML and in plain text. Easy RSS2Email has a built-in word automatic replacement dictionary, allows you to mix up news feeds, filter feed topics by keywords.</Char_Desc_450>
+      <Char_Desc_2000>Easy RSS2Email is a program that is used to automatically create and send e-mail messages whose contents are retrieved from news feeds. Besides the popular RSS format, the program also supports the Atom and RDF formats. It is possible to send message both in HTML and in plain text. Easy RSS2Email has a built-in word automatic replacement dictionary, allows you to mix up news feeds, filter feed topics by keywords. You can easily import and export e-mail addresses - the program supports all popular formats of text databases. It is possible to work using the command line. The program has a convenient interface and is really easy to use.
+
+To create your own newsletter, click the ‘New Project' button on the toolbar of the main program window. In the ‘New Project' dialog box specify the addresses of RSS (RDF, Atom) feeds, select one of the templates for final e-mail messages distributed together with the program, either manually enter the recipients' e-mail addresses or import them and click the ‘OK' button. To start sending messages, click the ‘Start' button on the toolbar of the main window. Easy RSS2Email will automatically load the news feed, do everything necessary and send messages. Try this new product right now and it is sure to meet all your expectations!</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

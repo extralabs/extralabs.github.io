@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.738</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-0056141E57B</Company_UIN>
+    <Company_Description>ExtraLabs Software is a small independently owned software development company founded in 2001. At ExtraLabs Software, we develop 'try and buy' software products for Microsoft Windows and the Internet environment.</Company_Description>
+    <Product_UIN>APP-006402DE930</Product_UIN>
+    <Search_String>RSS Wizard</Search_String>
+    <Search_String_Unique>RSS Wizard</Search_String_Unique>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>ExtraLabs Software</Company_Name>
+    <Address_1>Aviamotornaya, 12, 56</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Moscow</City_Town>
+    <State_Province>Moscow</State_Province>
+    <Zip_Postal_Code>111116</Zip_Postal_Code>
+    <Country>Russian Federation</Country>
+    <Company_WebSite_URL>http://www.extralabs.net</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Dmitry</Contact_First_Name>
+      <Contact_Last_Name>Baranow</Contact_Last_Name>
+      <Contact_Email>support@extralabs.net</Contact_Email>
+      <Author_First_Name>Dmitry</Author_First_Name>
+      <Author_Last_Name>Baranow</Author_Last_Name>
+      <Author_Email>support@extralabs.net</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>support@extralabs.net</Sales_Email>
+      <Support_Email>support@extralabs.net</Support_Email>
+      <General_Email>support@extralabs.net</General_Email>
+      <Sales_Phone>+79035585307</Sales_Phone>
+      <Support_Phone>+79035585307</Support_Phone>
+      <General_Phone>+79035585307</General_Phone>
+      <Fax_Phone>+79035585307</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_VERSION>1.4</Affiliates_VERSION>
+    <Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+    <Affiliates_Regnow_Order_Page>http://www.regnow.com/softsell/nph-softsell.cgi?item=13371-4</Affiliates_Regnow_Order_Page>
+    <Affiliates_Regnow_Vendor_ID>13371</Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regnow_Product_ID>13371-4</Affiliates_Regnow_Product_ID>
+    <Affiliates_Regnow_Maximum_Commission_Rate>25%</Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_Information_Page>http://www.extralabs.net/affiliates.htm</Affiliates_Information_Page>
+    <Affiliates_FORM_VER>1.4</Affiliates_FORM_VER>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_Cleverbridge_Order_Page></Affiliates_Cleverbridge_Order_Page>
+    <Affiliates_Cleverbridge_Vendor_ID></Affiliates_Cleverbridge_Vendor_ID>
+    <Affiliates_Cleverbridge_Product_ID></Affiliates_Cleverbridge_Product_ID>
+    <Affiliates_Cleverbridge_Maximum_Commission_Rate></Affiliates_Cleverbridge_Maximum_Commission_Rate>
+    <Affiliates_clixGalore_Order_Page></Affiliates_clixGalore_Order_Page>
+    <Affiliates_clixGalore_Vendor_ID></Affiliates_clixGalore_Vendor_ID>
+    <Affiliates_clixGalore_Product_ID></Affiliates_clixGalore_Product_ID>
+    <Affiliates_clixGalore_Maximum_Commission_Rate></Affiliates_clixGalore_Maximum_Commission_Rate>
+    <Affiliates_CommissionJunction_Order_Page></Affiliates_CommissionJunction_Order_Page>
+    <Affiliates_CommissionJunction_Vendor_ID></Affiliates_CommissionJunction_Vendor_ID>
+    <Affiliates_CommissionJunction_Product_ID></Affiliates_CommissionJunction_Product_ID>
+    <Affiliates_CommissionJunction_Maximum_Commission_Rate></Affiliates_CommissionJunction_Maximum_Commission_Rate>
+    <Affiliates_LinkShare_Order_Page></Affiliates_LinkShare_Order_Page>
+    <Affiliates_LinkShare_Vendor_ID></Affiliates_LinkShare_Vendor_ID>
+    <Affiliates_LinkShare_Product_ID></Affiliates_LinkShare_Product_ID>
+    <Affiliates_LinkShare_Maximum_Commission_Rate></Affiliates_LinkShare_Maximum_Commission_Rate>
+    <Affiliates_OneNetworkDirect_Order_Page></Affiliates_OneNetworkDirect_Order_Page>
+    <Affiliates_OneNetworkDirect_Vendor_ID></Affiliates_OneNetworkDirect_Vendor_ID>
+    <Affiliates_OneNetworkDirect_Product_ID></Affiliates_OneNetworkDirect_Product_ID>
+    <Affiliates_OneNetworkDirect_Maximum_Commission_Rate></Affiliates_OneNetworkDirect_Maximum_Commission_Rate>
+    <Affiliates_Plimus_Order_Page></Affiliates_Plimus_Order_Page>
+    <Affiliates_Plimus_Vendor_ID></Affiliates_Plimus_Vendor_ID>
+    <Affiliates_Plimus_Product_ID></Affiliates_Plimus_Product_ID>
+    <Affiliates_Plimus_Maximum_Commission_Rate></Affiliates_Plimus_Maximum_Commission_Rate>
+    <Affiliates_Shareasale_Order_Page></Affiliates_Shareasale_Order_Page>
+    <Affiliates_Shareasale_Vendor_ID></Affiliates_Shareasale_Vendor_ID>
+    <Affiliates_Shareasale_Product_ID></Affiliates_Shareasale_Product_ID>
+    <Affiliates_Shareasale_Maximum_Commission_Rate></Affiliates_Shareasale_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_DigiBuy_Order_Page></Affiliates_DigiBuy_Order_Page>
+    <Affiliates_DigiBuy_Vendor_ID></Affiliates_DigiBuy_Vendor_ID>
+    <Affiliates_DigiBuy_Product_ID></Affiliates_DigiBuy_Product_ID>
+    <Affiliates_DigiBuy_Maximum_Commission_Rate></Affiliates_DigiBuy_Maximum_Commission_Rate>
+    <Affiliates_DigitalCandle_Order_Page></Affiliates_DigitalCandle_Order_Page>
+    <Affiliates_DigitalCandle_Vendor_ID></Affiliates_DigitalCandle_Vendor_ID>
+    <Affiliates_DigitalCandle_Product_ID></Affiliates_DigitalCandle_Product_ID>
+    <Affiliates_DigitalCandle_Maximum_Commission_Rate></Affiliates_DigitalCandle_Maximum_Commission_Rate>
+    <Affiliates_Emetrix_Order_Page></Affiliates_Emetrix_Order_Page>
+    <Affiliates_Emetrix_Vendor_ID></Affiliates_Emetrix_Vendor_ID>
+    <Affiliates_Emetrix_Product_ID></Affiliates_Emetrix_Product_ID>
+    <Affiliates_Emetrix_Maximum_Commission_Rate></Affiliates_Emetrix_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Kagi_Order_Page></Affiliates_Kagi_Order_Page>
+    <Affiliates_Kagi_Vendor_ID></Affiliates_Kagi_Vendor_ID>
+    <Affiliates_Kagi_Product_ID></Affiliates_Kagi_Product_ID>
+    <Affiliates_Kagi_Maximum_Commission_Rate></Affiliates_Kagi_Maximum_Commission_Rate>
+    <Affiliates_NorthStarSol_Order_Page></Affiliates_NorthStarSol_Order_Page>
+    <Affiliates_NorthStarSol_Vendor_ID></Affiliates_NorthStarSol_Vendor_ID>
+    <Affiliates_NorthStarSol_Product_ID></Affiliates_NorthStarSol_Product_ID>
+    <Affiliates_NorthStarSol_Maximum_Commission_Rate></Affiliates_NorthStarSol_Maximum_Commission_Rate>
+    <Affiliates_Order1_Order_Page></Affiliates_Order1_Order_Page>
+    <Affiliates_Order1_Vendor_ID></Affiliates_Order1_Vendor_ID>
+    <Affiliates_Order1_Product_ID></Affiliates_Order1_Product_ID>
+    <Affiliates_Order1_Maximum_Commission_Rate></Affiliates_Order1_Maximum_Commission_Rate>
+    <Affiliates_Osolis_Order_Page></Affiliates_Osolis_Order_Page>
+    <Affiliates_Osolis_Vendor_ID></Affiliates_Osolis_Vendor_ID>
+    <Affiliates_Osolis_Product_ID></Affiliates_Osolis_Product_ID>
+    <Affiliates_Osolis_Maximum_Commission_Rate></Affiliates_Osolis_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+    <Affiliates_SWReg_Order_Page></Affiliates_SWReg_Order_Page>
+    <Affiliates_SWReg_Vendor_ID></Affiliates_SWReg_Vendor_ID>
+    <Affiliates_SWReg_Product_ID></Affiliates_SWReg_Product_ID>
+    <Affiliates_SWReg_Maximum_Commission_Rate></Affiliates_SWReg_Maximum_Commission_Rate>
+    <Affiliates_V-Share_Order_Page></Affiliates_V-Share_Order_Page>
+    <Affiliates_V-Share_Vendor_ID></Affiliates_V-Share_Vendor_ID>
+    <Affiliates_V-Share_Product_ID></Affiliates_V-Share_Product_ID>
+    <Affiliates_V-Share_Maximum_Commission_Rate></Affiliates_V-Share_Maximum_Commission_Rate>
+    <Affiliates_VFree_Order_Page></Affiliates_VFree_Order_Page>
+    <Affiliates_VFree_Vendor_ID></Affiliates_VFree_Vendor_ID>
+    <Affiliates_VFree_Product_ID></Affiliates_VFree_Product_ID>
+    <Affiliates_VFree_Maximum_Commission_Rate></Affiliates_VFree_Maximum_Commission_Rate>
+    <Affiliates_Yaskifo_Order_Page></Affiliates_Yaskifo_Order_Page>
+    <Affiliates_Yaskifo_Vendor_ID></Affiliates_Yaskifo_Vendor_ID>
+    <Affiliates_Yaskifo_Product_ID></Affiliates_Yaskifo_Product_ID>
+    <Affiliates_Yaskifo_Maximum_Commission_Rate></Affiliates_Yaskifo_Maximum_Commission_Rate>
+    <Affiliates_iPortis_Order_Page></Affiliates_iPortis_Order_Page>
+    <Affiliates_iPortis_Vendor_ID></Affiliates_iPortis_Vendor_ID>
+    <Affiliates_iPortis_Product_ID></Affiliates_iPortis_Product_ID>
+    <Affiliates_iPortis_Maximum_Commission_Rate></Affiliates_iPortis_Maximum_Commission_Rate>
+  </Affiliates>
+  <Newsfeed>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+  </Newsfeed>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Author_Email>support@extralabs.net</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Dmitry</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Baranow</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_Site_Title>RSS Wizard</Site_Site_Title>
+    <Site_Site_URL>http://www.extralabs.net/rss-wizard.htm</Site_Site_URL>
+    <Site_Description_100>Do you want to create RSS feeds dynamically with ease? Download RSS Wizard!</Site_Description_100>
+    <Site_Description_250>RSS Wizard is an HTML to RSS converter than can generate the RSS feed out of virtually any web page without having to edit it first. RSS Wizard generates RSS 2.0 feeds and allows you to create, edit and publish an unlimited number of RSS feeds.</Site_Description_250>
+    <Site_Keywords>html to rss,rss generator,create rss feed,podcast generator,rss to html,convert html to rss,convert to rss,make rss,html2rss,rss2html,rss software,extralabs</Site_Keywords>
+    <Site_Contact_First_Name>Dmitry</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Baranow</Site_Contact_Last_Name>
+    <Site_Contact_Email>support@extralabs.net</Site_Contact_Email>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Description_450></Site_Description_450>
+  </Site>
+  <Press_Release>
+    <Press_Release>For immediate release
+
+February 20, 2009
+Contact: Dmitry Baranov
+Company: ExtraLabs Software
+Title: Marketing Director
+E-mail: dmitry@extralabs.net
+
+
+ExtraLabs Software unveils RSS Wizard 3.3, a fully-fledged HTML to RSS converter, that offers you an easy way to create and maintain RSS feeds.
+
+ExtraLabs Software today announces the release of RSS Wizard 3.3. RSS Wizard is an HTML to RSS converter than can generate the RSS feed out of virtually any web page without having to edit it first. RSS Wizard generates RSS 2.0 feeds and allows you to create, edit and publish an unlimited number of RSS channels. The program has a great collection of features such as the built-in scheduler, autodetecting of RSS tags, command line support, XML editor and built-in FTP client.
+
+The program has been especially developed to meet the needs of both novice and advanced users. Now the RSS Wizard features a built-in scheduler so that now it can function in a 100% automatic mode creating excellent RSS channels without any user assistance.
+
+Read more about RSS Wizard at http://www.extralabs.net/rss-wizard.htm
+Download an evaluation version to try it for free http://www.extralabs.net/RSSWizardSetup.exe
+
+
+RSS Wizard Pricing and Availability
+
+RSS Wizard 3.3 runs under Windows 95/98/Me/2000/NT/XP/2003/Vista and costs $29.95 (USD). Registered customers are
+entitled to free lifetime updates and premium technical support. Discounts for volume buyers are available. Additional information on RSS Wizard 3.3, as well as its 30-day evaluation version is available from http://www.extralabs.net .
+
+About ExtraLabs Software
+
+ExtraLabs Software specializes in the development of RSS and podcasting software. The company was founded in 2002 by a
+team of Russian software engineers. ExtraLabs Software is the author of such products as "Feed Mix", an RSS reader with the
+editing ability; "Feed Editor", a fully-fledged RSS and podcast editor; "RSS Wizard", an HTML to RSS converter, "RSS
+Publisher", a free tool for publishing RSS Feeds, and "Image Assistant", a tool for batch-mode image processing. For more
+information, please visit http://www.extralabs.net .
+
+# # #
+
+An evaluation version of RSS Wizard 3.3 is available for review purposes.</Press_Release>
+    <Summary>ExtraLabs Software unveils RSS Wizard 3.3, a fully-fledged HTML to RSS converter, that offers you an easy way to create and maintain RSS feeds.</Summary>
+    <Headline>RSS Wizard 3.3: Convert HTML webpage to RSS feed automatically</Headline>
+    <Press_Release_Plain></Press_Release_Plain>
+    <Keywords></Keywords>
+    <Related_URL></Related_URL>
+  </Press_Release>
+  <Program_Info>
+    <Program_Name>RSS Wizard</Program_Name>
+    <Program_Version>4.0</Program_Version>
+    <Program_Release_Month>03</Program_Release_Month>
+    <Program_Release_Day>15</Program_Release_Day>
+    <Program_Release_Year>2011</Program_Release_Year>
+    <Program_Cost_Dollars>29.95</Program_Cost_Dollars>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinXP,Windows2000,Windows2003,Win98,WinME,WinNT 3.x,WinNT 4.x,Win95</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>strong bug was fixed</Program_Change_Info>
+    <Program_System_Requirements>Pentium 100, 16 mb RAM</Program_System_Requirements>
+    <Program_Category_Class>Web Development::HTML Tools</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>1727355</File_Size_Bytes>
+      <File_Size_K>1686</File_Size_K>
+      <File_Size_MB>1.65</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>30</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>other,rss,xml,newsfeed,news,webmaster,website,internet,web</Program_Categories>
+    <Limitations>None</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.extralabs.net/rss-wizard.htm</Application_Info_URL>
+      <Application_Order_URL>http://www.extralabs.net/purchase.htm</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.extralabs.net/rss-wizard-01.gif</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.extralabs.net/rss-wizard-icon.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.extralabs.net/rss-wizard-pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.extralabs.net/RSSWizardSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>http://www.extralabs.net/RSSWizardSetup.zip</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions></Distribution_Permissions>
+    <EULA></EULA>
+  </Permissions>
+  <Program_Descriptions>
+    <English>
+      <Keywords>html to rss,rss generator,create rss feed,podcast generator,rss to html,convert html to rss,convert to rss,make rss,html2rss,rss2html,rss software,extralabs</Keywords>
+      <Char_Desc_45>HTML to RSS converter, editor and publisher</Char_Desc_45>
+      <Char_Desc_80>Do you want to create RSS feeds dynamically with ease? Download RSS Wizard!</Char_Desc_80>
+      <Char_Desc_250>RSS Wizard is an HTML to RSS converter than can generate the RSS feed out of virtually any web page without having to edit it first. RSS Wizard generates RSS 2.0 feeds and allows you to create, edit and publish an unlimited number of RSS feeds.</Char_Desc_250>
+      <Char_Desc_450>RSS Wizard is an HTML to RSS converter than can generate the RSS feed out of virtually any web page without having to edit it first. RSS Wizard generates RSS 2.0 feeds and allows you to create, edit and publish an unlimited number of RSS channels. The program has a great collection of features such as the built-in scheduler, autodetecting of RSS tags, command line support, XML editor and built-in FTP client.</Char_Desc_450>
+      <Char_Desc_2000>Do you want to create RSS feeds dynamically with ease? RSS Wizard makes it possible!
+
+RSS Wizard is an HTML to RSS converter than can generate the RSS feed out of virtually any web page without having to edit it first. RSS Wizard generates RSS 2.0 feeds and allows you to create, edit and publish an unlimited number of RSS channels. The program has a great collection of features such as the built-in scheduler, autodetecting of RSS tags, command line support, XML editor and built-in FTP client. 
+
+The program has been especially developed to meet the needs of both novice and advanced users. Now the RSS Wizard features a built-in scheduler so that now it can function in a 100% automatic mode creating excellent RSS feeds without any user assistance.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

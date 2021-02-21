@@ -1,0 +1,12 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^extralabssoftware\.com$ [NC]
+RewriteRule ^(.*)$ http://www.extralabssoftware.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www.extralabssoftware.extralabs\.net$ [NC]
+RewriteRule ^(.*)$ http://www.extralabssoftware.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^extralabssoftware.extralabs\.net
+RewriteRule ^(.*)$ http://www.extralabssoftware.com/$1 [R=301,L]
+
+Redirect 301 /feed-editor-lite.htm /feed-editor.htm
+Redirect 301 /support.htm /contact.htm
+
+AddHandler server-parsed .shtml .html .htm

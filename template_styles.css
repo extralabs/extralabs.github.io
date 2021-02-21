@@ -1,0 +1,93 @@
+body { margin: 0; padding:0; background-color: #ffffff}
+
+/*Pop-up menu*/
+.popupmenuact {padding:2px; padding-left:5px; padding-right:10px; background-color:#D5D5C8; border-color: #FFFFFF; border-bottom: 1px solid #FFFFFF }
+.popupmenu {padding:2px; padding-left:5px; background-color:#F2F2E9; padding-right:10px; border-color: #FFFFFF;  border-bottom: 1px solid #FFFFFF }
+.popupmenutext, .popupmenuclosed { font-family: Arial, Helvetica, sans-serif; font-size: 11px;}
+.popupmenutext {color: #546470;}
+.popupmenuclosed {color: #C3C3C3;}
+
+/*Left menu*/
+.leftmenu, .leftmenuact { font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; } /* color: #619DCD;  text-decoration:none; */
+.leftmenuact {color:#355B7C;}
+
+/*Top menu*/
+.topmenu, .topmenuact {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; color: #546470; text-decoration:none;}
+.topmenuact {color: #619DCD;}
+
+/*Site menu*/
+.lang, .langact {font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; color: #FFFFFF; text-decoration:underline;}
+.langact {text-decoration:none;}
+
+
+/*Style for basket panel text*/
+.baskettext {font-family: Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal;}
+.baskettext {color: #999999;}
+
+.chain {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:normal; color: #7F7F7F;}
+
+.errortext, .oktext, .notetext {font-family:Arial; font-size:13px; font-weight:bold;}
+.errortext {color:red;}
+.oktext {color:#005000;}
+.notetext {color:green;}
+
+/* Onscreen messages */
+.errormessage{font-family: Arial, Helvetica, sans-serif; font-size:13px; color:red; font-weight:bold;}
+
+.titletext {font-family: Arial, Helvetica, sans-serif; color: :#4757C4; font-size:15px; font-weight:bold; line-height: 18px;}/*Page title*/
+.subtitletext {font-family: Arial, Helvetica, sans-serif; color:#4791D3; font-size:13px; font-weight:bold;}/*Subtitle*/
+
+.copy {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; text-decoration: none; }
+
+hr {color: #BDCEDE; height: 1px}
+
+/* Headers */
+H1, H2, H3, H4  {font-family: Tahoma, Helvetica, sans-serif;}
+H1 {color:#d8060f; font-size: 18px; font-weight: bold; margin-bottom: 12px; }
+H2 {color:#d8060f; font-size: 13px; font-weight: bold; } /* 7F7F7F line-height: 18px;  */
+H3 {font-size:12px; color: #5892BF; font-weight:bold; }
+H4 {font-size:12px; color: #5892BF; font-weight:bold; }
+
+/* Table colors */
+td.tableborder, table.tableborder {background-color:#B7BCDB;}
+table.tablehead, td.tablehead {background-color:#EBECF3;}
+table.tablebody, td.tablebody {background-color:#FFFFFF;}
+table.tablenullbody, td.tablenullbody {background-color:#FFFFFF;}
+
+/* Table text */
+.tablebodytext, .tablefieldtext, .tabletitletext,
+.tableheadtext, .tablebodylink {font-family: Arial, Helvetica, sans-serif; font-size:12px;}
+.tableheadtext {color:#25639A;}
+a.tablebodylink {text-decoration: none}
+a.tablebodylink:hover {text-decoration: underline}
+
+/*Include areas*/
+table.tableborders, td.tableborders {border: 1px solid #B7BCDB;}
+table.tableheads, td.tableheads{background-color:#EBECF3; padding: 5px;}
+table.tableheads .smalltext ,td.tableheads .smalltext {color:#565A8A;}
+table.tablebodys, td.tablebodys {background-color:#FFFFFF; padding: 5px}
+table.tablebodys strong, td.tablebodys strong {color:#565A8A;}
+
+/* Regular text */
+.text {font-family:Verdana, Helvetica, sans-serif; font-size:12px; color: #383A3B}
+
+/* Some colors to highlight text */
+.errorcolor {color:red;}
+.successcolor {color:green;}
+
+/* Form elements */
+input.inputtext, textarea.inputtextarea, select.inputselect, input.inputcheckbox,
+input.inputradio, input.inputfile, input.inputbutton, input.inputbodybutton {font-family:Verdana,Arial,Helvetica; font-size:11px;}
+
+input.inputfield, input.inputbuttonflat, input.inputbuttonS {font-family:Verdana,Arial,Helvetica; font-size:11px;}
+input.inputfield {color:black; border: solid 1px #C8C8C8;}
+input.inputbuttonflat, input.inputbutton { color:#929292; background-color:#EFEFEF; border:1px solid #C8C8C8;}
+input.inputbuttonS {font-weight:bold;}
+
+.mainincbg{height: 18px;}
+.mainincline{background-color:#B4BDCD}
+.maininctitle{font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight: bold; color: #6A7B9C; text-decoration:none;}
+
+
+/* Required sign */
+.starrequired, .required{font-family: Verdana, Arial, Helvetica, sans-serif; color:red; font-size:12px; }

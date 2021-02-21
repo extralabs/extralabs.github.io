@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<generator>Feed Editor</generator>
+	<pubDate>16 May 2008 21:08:36 GMT</pubDate>
+	<title>Sample Podcast</title>
+	<description>This is my first podcast feed</description>
+	<link>http://www.my-web-site.com/</link>
+	<language>en</language>
+	<item>
+	<title>Sample Episode #2</title>
+	<description>This is the second &lt;span style="color:green;"&gt;&lt;span style="font-weight:bold;"&gt;podcast episode&lt;/span&gt;&lt;/span&gt;</description>
+	<pubDate>16 May 2008 21:10:40 GMT</pubDate>
+	<link>http://www.my-web-site.com/about-episode-2.html</link>
+	<enclosure url="http://www.my-web-site.com/episode02.mp3" length="1547183" type="audio/mpeg"/>
+	<guid isPermaLink="false">34D3E2C3-01C4-40E9-B2A4-E448F21C6A24</guid>
+	</item>
+	<item>
+	<title>Sample Episode #1</title>
+	<description>This is the first podcast episode</description>
+	<pubDate>16 May 2008 21:09:15 GMT </pubDate>
+	<link>http://www.my-web-site.com/about-episode-1.html</link>
+	<enclosure url="http://www.my-web-site.com/episode01.mp3" length="3731456" type="audio/mpeg"/>
+	<guid isPermaLink="false">7BBF6FD1-5465-4840-96CC-F612E5ADCD8C</guid>
+	</item>
+	</channel></rss>

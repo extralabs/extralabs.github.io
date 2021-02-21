@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" ><html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="alternate" type="application/rss+xml" title="ExtraLabs Software News" href="http://www.extralabssoftware.com/extralabs-news.xml" />
+<title>What is BMP</title>
+
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<meta name="keywords" content="bmp,bitmap,bmp format,bmp image format">
+
+<meta name="description" content="BMP (an abbreviation derived from &quot;BitMaP&quot;) is a native bitmap format in Windows because it most closely corresponds to the internal format used by Windows for storing its bitmap arrays">
+
+<meta name="Microsoft Border" content="tb, default">
+</head>
+
+<body bgcolor="#1C5AA2" style="background-color: #1C5AA2"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<center>
+<table width="968" border="0" cellpadding="0" cellspacing="0" id="table3">
+	<tr>
+		<td colspan="8">
+		<p align="center">
+		<img src="_borders/extra_head.jpg" width="968" height="145" alt="Extralabs Software"></td>
+	</tr>
+	<tr>
+		<td><img src="_borders/m_left.jpg" width="31" height="34"></td>
+		<td><a href="/">
+		<img src="_borders/home.jpg" width="112" height="34" border="0" alt="Home"></a></td>
+		<td><a href="products.htm">
+		<img src="_borders/products.jpg" width="113" height="34" border="0" alt="Products"></a></td>
+		<td><a href="purchase.htm">
+		<img src="_borders/purchase.jpg" width="112" height="34" border="0" alt="Purchase"></a></td>
+		<td><a href="downloads.htm">
+		<img src="_borders/download.jpg" width="113" height="34" border="0" alt="Download"></a></td>
+		<td><a href="/forum/">
+		<img src="_borders/forum.jpg" width="113" height="34" border="0" alt="Forum"></a></td>
+		<td><a href="contact.htm">
+		<img src="_borders/contact.jpg" width="113" height="34" border="0" alt="Support"></a></td>
+		<td><img src="_borders/m_right.jpg" width="261" height="34"></td>
+	</tr>
+</table>
+</center>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<center>
+<table width="968" border="0" cellpadding="0" cellspacing="0" id="table1">
+<!--head begin-->
+<!--head end-->
+<!--menu begin-->
+<!--menu end-->
+<tr>
+<td>
+
+
+
+<table width="968" border="0" cellpadding="0" cellspacing="0" bgcolor="white" id="table2">
+
+<tr>
+<td width="10" background="c_left.jpg" align="left">&nbsp;</td>
+<td align="left" valign="top" width="85">&nbsp;<p>&nbsp;</p>
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</td>
+<td align="left" valign="top" width="613">
+
+&nbsp;<h1>BMP (Windows Bitmap) Image Format</h1>
+<p>Format name: Microsoft Windows Bitmap<br>
+File extension: .bmp, .dib, .rle, .rl8, .vga</p>
+<p>&nbsp;</p>
+<p><b>
+<img border="0" src="ia-bmp.png" width="126" height="127" align="left"></b>BMP (an abbreviation derived from 
+&quot;BitMaP&quot;) is a native bitmap format in Windows because it most closely 
+corresponds to the internal format used by Windows for storing its bitmap 
+arrays. BMP files most often have the .bmp extension, though sometimes the .rle 
+extension is used. The .rle extension usually indicates that the bitmap 
+information was compressed using one of the two RLE (run-length encoding) 
+methods available for BMP files.<p>&nbsp;<p>In a BMP 
+file, information about each pixel’s color is encoded in 1, 4, 8, 16, or 24 bits 
+(bits per pixel). The number of bits per pixel, also called “color depth,” 
+determines the maximum number of colors in a picture. A color depth of 1 bit per 
+pixel means that only 2 colors can be used in the picture. A color depth of 24 
+bits per pixel limits the maximum number of colors by approx. 16.7 million.<p>
+Take a look at the picture, which shows the 
+structure of a typical BMP format file that contains a 256-color (8 bits 
+per pixel) image. The file consists of four basic sections: a bitmap file 
+header, a bitmap information header, a color table (palette), and pixel array 
+data. The bitmap file header contains information about the file, including the 
+starting address of the pixel array data. The bitmap information header contains 
+information about the image stored in the file, such as image height and width 
+(in pixels). The color table stores RGB (red, green, and blue) values used for 
+creating specific colors. If a graphics card doesn’t support more than 256 
+colors, the software that reads and displays BMP files can programmatically set 
+such RGB values in the card’s palette for precise color rendering.<p>
+The format of bitmap array data in a BMP file 
+depends on the number of bits used for encoding data on each pixel’s color. If 
+the number of colors in an image is limited by 256, each pixel in the bitmap 
+array is described by one byte (8 bits). Such a pixel description doesn’t 
+represent any RGB value but indicates the entry point in the BMP file’s color 
+table. For example, if the first RGB value in the color table is R/G/B=255/0/0, 
+then pixel 0 in the bitmap array will represent the pure red color. Pixel values 
+are stored from left to right, usually starting from the bottom row of the 
+image. In a 256-color BMP file, the first byte of the bitmap array is an index 
+for the color of the leftmost pixel in the bottom row; the second byte, for the 
+color of the next pixel; and so on. If the number of bytes in each row is odd, 
+then an additional byte is added for each row to align the bitmap array data by 
+16-bit boundaries.<p>Not all BMP files have 
+a structure like that shown in the picture. For example, BMP files with a color 
+depth of 16 or 24 bits per pixel do not use color tables because pixel values in 
+their bitmap arrays directly represent RGB values. Internal formats of file 
+sections may differ too. For instance, bitmap array data in some 16- or 
+256-color BMP files may be compressed using the RLE algorithm, with replaces 
+each sequence of repeated pixels by the number of pixels and their color value. 
+Windows also supports BMP files inherited from OS/2, which use formats of the 
+bitmap information header and palette different from those in Windows.<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;<p>&nbsp;</td>
+<td align="left" valign="top">
+
+
+				
+
+				
+
+				
+<p align="center">
+		&nbsp;</p>
+<p align="center">
+		&nbsp;</p>
+<p align="center">
+		&nbsp;</p>
+<p align="center">
+		&nbsp;</p>
+<p align="center">
+		&nbsp;</p>
+		<p align="center">
+		&nbsp;</p>
+		<p align="center">
+		&nbsp;</p>
+		<p align="center">
+		&nbsp;</td>
+<td width="10" background="c_right.jpg"></td>
+</tr>
+
+</table>
+
+
+
+
+</td>
+</tr>
+<!--lower begin-->
+<!--lower end-->
+</table>
+</center>
+
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<center>
+<table width="968" border="0" cellpadding="0" cellspacing="0" id="table4">
+	<tr>
+		<td background="_borders/extra_lower.jpg" width="968" height="83">
+		<p align="center"><b><font size="1" color="#FFFFFF"><a href="/">
+		<font color="#FFFFFF">Home</font></a> | <a href="company.htm">
+		<font color="#FFFFFF">Company</font></a> | <a href="/articles/">
+		<font color="#FFFFFF">Articles</font></a> | <a href="products.htm">
+		<font color="#FFFFFF">Products</font></a> | <a href="downloads.htm">
+		<font color="#FFFFFF">Download</font></a> | <a href="purchase.htm">
+		<font color="#FFFFFF">Purchase</font></a> | </font></b>
+		<a href="contact.htm"><font size="1" color="#FFFFFF"><b>Contact us</b></font></a></td>
+	</tr>
+</table>
+<p align="left" style="margin-left: 13px; margin-top: 0; margin-bottom: 0">
+<font color="#EBECF3" size="1">(c) Copyright ExtraLabs Software 2001-2010. All 
+rights reserved.</font></p>
+</center>
+<p>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-289309-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</p>
+
+</td></tr><!--msnavigation--></table></body>
+
+</html>

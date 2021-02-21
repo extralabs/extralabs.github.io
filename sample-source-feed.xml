@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<rss version="2.0">
+	<channel>
+	<generator>Feed Mix</generator>
+	<pubDate>0 Feb 2005 21:56:08 +0300</pubDate>
+	<title>ExtraLabs Software News</title>
+	<description>textA
+&lt;br&gt;
+textB
+&lt;br&gt;
+stop</description>
+	<link>http://www.extralabs.net</link>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<item>
+	<title>What is RSS?</title>
+	<description>RSS is a defined standard with the specific purpose of delivering updates to web-based content. Using this standard, webmasters provide headlines and fresh content in a succinct manner. Meanwhile, consumers use RSS readers and news aggregators to collect and monitor their favorite feeds in one centralized program or location. Content viewed in the RSS reader or news aggregator is place known as an RSS feed.
+
+Test555</description>
+	<pubDate>7 Dec 2005 11:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net</link>
+	</item>
+	<item>
+	<title>Feed Editor</title>
+	<description>Powerful and easy-to-use RSS feed editor for all. With the help of this program you can not only create your own, professional looking RSS feeds, but also to maintain and update them according to a predefined schedule.&lt;br&gt;&lt;br&gt;&lt;a href="http://www.extralabs.net/FeedEditorSetup.exe"&gt;Download FeedEditor&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="http://www.extralabs.net/purchase.htm"&gt;Purchase FeedEditor for $19.95&lt;/a&gt;</description>
+	<pubDate>1 Feb 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/feededitor.htm</link>
+	</item>
+	<item>
+	<title>Feed Editor: Main Features</title>
+	<description>Support of verious RSS formats&lt;BR&gt;Convenient, intuitively clear interface&lt;BR&gt;Unlimited Feeds&lt;BR&gt;Feed Image Support&lt;BR&gt;Image Editor&lt;BR&gt;WYSIWYG HTML Editor&lt;BR&gt;Upload &amp;amp; Publish Feeds&lt;BR&gt;Export Support&lt;BR&gt;Support of proxy-servers&lt;BR&gt;Low system requirements&lt;BR&gt;Small size of the program&lt;BR&gt;&lt;BR&gt;&lt;A href="http://www.extralabs.net/FeedEditorSetup.exe"&gt;Download FeedEditor&lt;/A&gt;</description>
+	<pubDate>2 Jan 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/feededitor.htm</link>
+	</item>
+	<item>
+	<title>Feed Mix</title>
+	<description>Feed Mix is not just an RSS reader, it can also edit existing feed or create a new one, or even form a totally new feed from several existing one and then publish it to the web site.</description>
+	<pubDate>7 Feb 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/rss-aggregator.htm</link>
+	</item>
+	<item>
+	<title>Feed Mix: Main Features</title>
+	<description>Multiple RSS version support&lt;br&gt;Convenient an editing tool and viewing RSS channel&lt;br&gt;Convenient, intuitively clear interface &lt;br&gt;The unlimited number of Channels and Projects&lt;br&gt;Feed Image Support&lt;br&gt;Image Editor&lt;br&gt;WYSIWYG HTML Editor&lt;br&gt;Upload &amp; Publish Feeds&lt;br&gt;Export Support&lt;br&gt;Built in blog-client with support LiveJournal and Blogger API&lt;br&gt;Means of interaction with the post program&lt;br&gt;Support of proxy-servers&lt;br&gt;Integration with Microsoft Internet Explorer&lt;br&gt;Low system requirements&lt;br&gt;Small size of the program</description>
+	<pubDate>7 Feb 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/rss-aggregator.htm</link>
+	</item>
+	<item>
+	<title>RSS Wizard</title>
+	<description>RSS Wizard - is an HTML to RSS converter that will generate an RSS feed from pretty well any HTML web page - with no requirement to edit the source HTML first.</description>
+	<pubDate>7 Feb 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/rss-wizard.xml</link>
+	</item>
+	<item>
+	<title>RSS Publisher</title>
+	<description>RSS Publisher is a program for RSS publishers. Using this program one can not only upload any number of new RSS feeds to web servers, but also save and manage existing RSS feeds. The program has a number of unique features, allowing to automate the process of uploading and archiving of RSS feeds. The RSS Publisher works under OS Windows 95, 98, ME, NT 4.0, 2000 and XP.</description>
+	<pubDate>7 Feb 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/rss-publisher.htm</link>
+	</item>
+	<item>
+	<title>RSS Publisher: Main Features</title>
+	<description>Multiple RSS version support &lt;br&gt;Convenient and intuitive interface &lt;br&gt;Unlimited number of tasks &lt;br&gt;Feed Image Support &lt;br&gt;"Smart Backup" function &lt;br&gt;FTP support &lt;br&gt;Logging all progress in a log file &lt;br&gt;Low system requirements &lt;br&gt;And more important... IT's FREE!  &lt;br&gt;</description>
+	<pubDate>7 Feb 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/rss-publisher.htm</link>
+	</item>
+	<item>
+	<title>ExtraLabs Software: Support</title>
+	<description>Extralabs Software is looking for feedback from users. If you use RSS and need some tools for making your work more efficient then fill in the &lt;a href="http://www.extralabs.net/support.php"&gt;form&lt;/a&gt; an press 'Send'! We'll try to write the program you need!</description>
+	<pubDate>7 Feb 2005 10:52:12 +0300</pubDate>
+	<link>http://www.extralabs.net/support.php</link>
+	</item>
+	</channel>
+</rss>
+

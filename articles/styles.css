@@ -1,0 +1,80 @@
+.red { color: #d8060f; }
+
+.thinborderfloat
+{
+	float:center;
+	border:solid 1px silver;
+	padding:4px;
+} 
+
+a { color: #3296e0; text-decoration: none }
+a:visited { color: #3296e0 }
+a:hover { color: #d8060f }
+
+/*Small text*/
+.smalltext, .smalltextwhite, .smalltextblack {font-family: Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal;}/*Small text*/
+.smalltext {color: #333333;}/*Small text blue*/
+.smalltextwhite {color: #60605E;}/*Small text white*/
+.smalltextblack {color: #000000;}/*Small text black*/
+
+/*News text*/
+.newstext, .newsdata, .newsdatab {font-family: Verdana, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color: #3296e0; text-decoration:none;} /* 5A5C5D */
+.newstext {color: #383A3B;} /* 5A5C5D */
+.newsdata {font-weight: bold; color: #d8060f;} /* 5892BF */
+.newsdatab {font-weight: bold; color: #5892BF;}
+
+a.newstext:visited { color: #383A3B; }
+
+.titletext {font-family: Arial, Helvetica, sans-serif; color: :#4757C4; font-size:15px; font-weight:bold; line-height: 18px;}/*Page title*/
+.subtitletext {font-family: Arial, Helvetica, sans-serif; color:#4791D3; font-size:13px; font-weight:bold;}/*Subtitle*/
+
+.copy {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; text-decoration: none; }
+
+hr {color: #BDCEDE; height: 1px}
+
+/* Headers */
+H1, H2, H3, H4  {font-family: Tahoma, Helvetica, sans-serif;}
+H1 {color:#d8060f; font-size: 18px; font-weight: bold; margin-bottom: 12px; }
+H2 {color:#d8060f; font-size: 13px; font-weight: bold; } /* 7F7F7F line-height: 18px;  */
+H3 {font-size:12px; color: #5892BF; font-weight:bold; }
+H4 {font-size:12px; color: #5892BF; font-weight:bold; }
+
+/* Table colors */
+td.tableborder, table.tableborder {background-color:#B7BCDB;}
+table.tablehead, td.tablehead {background-color:#EBECF3;}
+table.tablebody, td.tablebody {background-color:#FFFFFF;}
+table.tablenullbody, td.tablenullbody {background-color:#FFFFFF;}
+
+/* Table text */
+.tablebodytext, .tablefieldtext, .tabletitletext,
+.tableheadtext, .tablebodylink {font-family: Arial, Helvetica, sans-serif; font-size:12px;}
+.tableheadtext {color:#25639A;}
+a.tablebodylink {text-decoration: none}
+a.tablebodylink:hover {text-decoration: underline}
+
+/*Include areas*/
+table.tableborders, td.tableborders {border: 1px solid #B7BCDB;}
+table.tableheads, td.tableheads{background-color:#EBECF3; padding: 5px;}
+table.tableheads .smalltext ,td.tableheads .smalltext {color:#565A8A;}
+table.tablebodys, td.tablebodys {background-color:#FFFFFF; padding: 5px}
+table.tablebodys strong, td.tablebodys strong {color:#565A8A;}
+
+/* Regular text */
+.text {font-family:Verdana, Helvetica, sans-serif; font-size:12px; color: #383A3B}
+
+/* Some colors to highlight text */
+.errorcolor {color:red;}
+.successcolor {color:green;}
+
+/* Form elements */
+input.inputtext, textarea.inputtextarea, select.inputselect, input.inputcheckbox,
+input.inputradio, input.inputfile, input.inputbutton, input.inputbodybutton {font-family:Verdana,Arial,Helvetica; font-size:11px;}
+
+input.inputfield, input.inputbuttonflat, input.inputbuttonS {font-family:Verdana,Arial,Helvetica; font-size:11px;}
+input.inputfield {color:black; border: solid 1px #C8C8C8;}
+input.inputbuttonflat, input.inputbutton { color:#929292; background-color:#EFEFEF; border:1px solid #C8C8C8;}
+input.inputbuttonS {font-weight:bold;}
+
+.mainincbg{height: 18px;}
+.mainincline{background-color:#B4BDCD}
+.maininctitle{font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight: bold; color: #6A7B9C; text-decoration:none;}

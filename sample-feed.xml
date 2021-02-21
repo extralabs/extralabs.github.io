@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<generator>Feed Editor</generator>
+	<pubDate>16 May 2008 18:45:35 GMT</pubDate>
+	<title>Sample Feed</title>
+	<description>This is my first RSS feed</description>
+	<link>http://www.my-web-site.com/</link>
+	<language>en</language>
+	<item>
+	<title>Sample Item #2</title>
+	<description>This is the &lt;span style="font-weight:bold;"&gt;&lt;span style="color:green;"&gt;second&lt;/span&gt;&lt;/span&gt; &lt;a href="http://www.my-web-site.com/"&gt;topic&lt;/a&gt;</description>
+	<pubDate>16 May 2008 18:47:11 GMT</pubDate>
+	<link>http://www.my-web-site.com/about-item-2.html</link>
+	<guid isPermaLink="false">6E9BB53C-A702-419B-9AD3-5413C93C7577</guid>
+	</item>
+	<item>
+	<title>Sample Item #1</title>
+	<description>This is the first sample topic</description>
+	<pubDate>16 May 2008 18:46:20 GMT </pubDate>
+	<link>http://www.my-web-site.com/about-item-1.html</link>
+	<guid isPermaLink="false">9D323C93-E613-40F5-B870-170B195F12E0</guid>
+	</item>
+	</channel></rss>

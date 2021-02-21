@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.752</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-0056141E57B</Company_UIN>
+    <Company_Description>Extralabs Software was founded by Dmitry Baranov in 2005. We develop software for creating RSS and podcasting. Download our software for free from official website.</Company_Description>
+    <Product_UIN>APP-005614AB5C8</Product_UIN>
+    <Search_String>Feed Editor</Search_String>
+    <Search_String_Unique>Feed Editor RSS Creator</Search_String_Unique>
+    <Comments_For_Reviewer>Regkey available for review purposes. Thanks!</Comments_For_Reviewer>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>ExtraLabs Software</Company_Name>
+    <Address_1>Aviamotornaya, 12, 56</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Moscow</City_Town>
+    <State_Province>Moscow</State_Province>
+    <Zip_Postal_Code>111116</Zip_Postal_Code>
+    <Country>Russian Federation</Country>
+    <Company_WebSite_URL>http://www.extralabs.net</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Dmitry</Contact_First_Name>
+      <Contact_Last_Name>Baranow</Contact_Last_Name>
+      <Contact_Email>support@extralabs.net</Contact_Email>
+      <Author_First_Name>Dmitry</Author_First_Name>
+      <Author_Last_Name>Baranow</Author_Last_Name>
+      <Author_Email>support@extralabs.net</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>support@extralabs.net</Sales_Email>
+      <Support_Email>support@extralabs.net</Support_Email>
+      <General_Email>support@extralabs.net</General_Email>
+      <Sales_Phone>+79035585307</Sales_Phone>
+      <Support_Phone>+79035585307</Support_Phone>
+      <General_Phone>+79035585307</General_Phone>
+      <Fax_Phone>+79035585307</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_VERSION>1.4</Affiliates_VERSION>
+    <Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+    <Affiliates_Regsoft_Order_Page>https://www.regsoft.net/regsoft/vieworderpage.php3?productid=74108</Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID>30502</Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID>74108</Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regsoft_Maximum_Commission_Rate>50%</Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_Information_Page>http://www.extralabs.net/affiliates.htm</Affiliates_Information_Page>
+    <Affiliates_Regnow_Order_Page>https://www.regnow.com/softsell/nph-softsell.cgi?item=13371-28&amp;ss_short_order=true</Affiliates_Regnow_Order_Page>
+    <Affiliates_Regnow_Vendor_ID>13371</Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regnow_Product_ID>13371-1</Affiliates_Regnow_Product_ID>
+    <Affiliates_Regnow_Maximum_Commission_Rate>50%</Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_FORM_VER>1.4</Affiliates_FORM_VER>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_Cleverbridge_Order_Page></Affiliates_Cleverbridge_Order_Page>
+    <Affiliates_Cleverbridge_Vendor_ID></Affiliates_Cleverbridge_Vendor_ID>
+    <Affiliates_Cleverbridge_Product_ID></Affiliates_Cleverbridge_Product_ID>
+    <Affiliates_Cleverbridge_Maximum_Commission_Rate></Affiliates_Cleverbridge_Maximum_Commission_Rate>
+    <Affiliates_clixGalore_Order_Page></Affiliates_clixGalore_Order_Page>
+    <Affiliates_clixGalore_Vendor_ID></Affiliates_clixGalore_Vendor_ID>
+    <Affiliates_clixGalore_Product_ID></Affiliates_clixGalore_Product_ID>
+    <Affiliates_clixGalore_Maximum_Commission_Rate></Affiliates_clixGalore_Maximum_Commission_Rate>
+    <Affiliates_CommissionJunction_Order_Page></Affiliates_CommissionJunction_Order_Page>
+    <Affiliates_CommissionJunction_Vendor_ID></Affiliates_CommissionJunction_Vendor_ID>
+    <Affiliates_CommissionJunction_Product_ID></Affiliates_CommissionJunction_Product_ID>
+    <Affiliates_CommissionJunction_Maximum_Commission_Rate></Affiliates_CommissionJunction_Maximum_Commission_Rate>
+    <Affiliates_LinkShare_Order_Page></Affiliates_LinkShare_Order_Page>
+    <Affiliates_LinkShare_Vendor_ID></Affiliates_LinkShare_Vendor_ID>
+    <Affiliates_LinkShare_Product_ID></Affiliates_LinkShare_Product_ID>
+    <Affiliates_LinkShare_Maximum_Commission_Rate></Affiliates_LinkShare_Maximum_Commission_Rate>
+    <Affiliates_OneNetworkDirect_Order_Page></Affiliates_OneNetworkDirect_Order_Page>
+    <Affiliates_OneNetworkDirect_Vendor_ID></Affiliates_OneNetworkDirect_Vendor_ID>
+    <Affiliates_OneNetworkDirect_Product_ID></Affiliates_OneNetworkDirect_Product_ID>
+    <Affiliates_OneNetworkDirect_Maximum_Commission_Rate></Affiliates_OneNetworkDirect_Maximum_Commission_Rate>
+    <Affiliates_Plimus_Order_Page></Affiliates_Plimus_Order_Page>
+    <Affiliates_Plimus_Vendor_ID></Affiliates_Plimus_Vendor_ID>
+    <Affiliates_Plimus_Product_ID></Affiliates_Plimus_Product_ID>
+    <Affiliates_Plimus_Maximum_Commission_Rate></Affiliates_Plimus_Maximum_Commission_Rate>
+    <Affiliates_Shareasale_Order_Page></Affiliates_Shareasale_Order_Page>
+    <Affiliates_Shareasale_Vendor_ID></Affiliates_Shareasale_Vendor_ID>
+    <Affiliates_Shareasale_Product_ID></Affiliates_Shareasale_Product_ID>
+    <Affiliates_Shareasale_Maximum_Commission_Rate></Affiliates_Shareasale_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_DigiBuy_Order_Page></Affiliates_DigiBuy_Order_Page>
+    <Affiliates_DigiBuy_Vendor_ID></Affiliates_DigiBuy_Vendor_ID>
+    <Affiliates_DigiBuy_Product_ID></Affiliates_DigiBuy_Product_ID>
+    <Affiliates_DigiBuy_Maximum_Commission_Rate></Affiliates_DigiBuy_Maximum_Commission_Rate>
+    <Affiliates_DigitalCandle_Order_Page></Affiliates_DigitalCandle_Order_Page>
+    <Affiliates_DigitalCandle_Vendor_ID></Affiliates_DigitalCandle_Vendor_ID>
+    <Affiliates_DigitalCandle_Product_ID></Affiliates_DigitalCandle_Product_ID>
+    <Affiliates_DigitalCandle_Maximum_Commission_Rate></Affiliates_DigitalCandle_Maximum_Commission_Rate>
+    <Affiliates_Emetrix_Order_Page></Affiliates_Emetrix_Order_Page>
+    <Affiliates_Emetrix_Vendor_ID></Affiliates_Emetrix_Vendor_ID>
+    <Affiliates_Emetrix_Product_ID></Affiliates_Emetrix_Product_ID>
+    <Affiliates_Emetrix_Maximum_Commission_Rate></Affiliates_Emetrix_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Kagi_Order_Page></Affiliates_Kagi_Order_Page>
+    <Affiliates_Kagi_Vendor_ID></Affiliates_Kagi_Vendor_ID>
+    <Affiliates_Kagi_Product_ID></Affiliates_Kagi_Product_ID>
+    <Affiliates_Kagi_Maximum_Commission_Rate></Affiliates_Kagi_Maximum_Commission_Rate>
+    <Affiliates_NorthStarSol_Order_Page></Affiliates_NorthStarSol_Order_Page>
+    <Affiliates_NorthStarSol_Vendor_ID></Affiliates_NorthStarSol_Vendor_ID>
+    <Affiliates_NorthStarSol_Product_ID></Affiliates_NorthStarSol_Product_ID>
+    <Affiliates_NorthStarSol_Maximum_Commission_Rate></Affiliates_NorthStarSol_Maximum_Commission_Rate>
+    <Affiliates_Order1_Order_Page></Affiliates_Order1_Order_Page>
+    <Affiliates_Order1_Vendor_ID></Affiliates_Order1_Vendor_ID>
+    <Affiliates_Order1_Product_ID></Affiliates_Order1_Product_ID>
+    <Affiliates_Order1_Maximum_Commission_Rate></Affiliates_Order1_Maximum_Commission_Rate>
+    <Affiliates_Osolis_Order_Page></Affiliates_Osolis_Order_Page>
+    <Affiliates_Osolis_Vendor_ID></Affiliates_Osolis_Vendor_ID>
+    <Affiliates_Osolis_Product_ID></Affiliates_Osolis_Product_ID>
+    <Affiliates_Osolis_Maximum_Commission_Rate></Affiliates_Osolis_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+    <Affiliates_SWReg_Order_Page></Affiliates_SWReg_Order_Page>
+    <Affiliates_SWReg_Vendor_ID></Affiliates_SWReg_Vendor_ID>
+    <Affiliates_SWReg_Product_ID></Affiliates_SWReg_Product_ID>
+    <Affiliates_SWReg_Maximum_Commission_Rate></Affiliates_SWReg_Maximum_Commission_Rate>
+    <Affiliates_V-Share_Order_Page></Affiliates_V-Share_Order_Page>
+    <Affiliates_V-Share_Vendor_ID></Affiliates_V-Share_Vendor_ID>
+    <Affiliates_V-Share_Product_ID></Affiliates_V-Share_Product_ID>
+    <Affiliates_V-Share_Maximum_Commission_Rate></Affiliates_V-Share_Maximum_Commission_Rate>
+    <Affiliates_VFree_Order_Page></Affiliates_VFree_Order_Page>
+    <Affiliates_VFree_Vendor_ID></Affiliates_VFree_Vendor_ID>
+    <Affiliates_VFree_Product_ID></Affiliates_VFree_Product_ID>
+    <Affiliates_VFree_Maximum_Commission_Rate></Affiliates_VFree_Maximum_Commission_Rate>
+    <Affiliates_Yaskifo_Order_Page></Affiliates_Yaskifo_Order_Page>
+    <Affiliates_Yaskifo_Vendor_ID></Affiliates_Yaskifo_Vendor_ID>
+    <Affiliates_Yaskifo_Product_ID></Affiliates_Yaskifo_Product_ID>
+    <Affiliates_Yaskifo_Maximum_Commission_Rate></Affiliates_Yaskifo_Maximum_Commission_Rate>
+    <Affiliates_iPortis_Order_Page></Affiliates_iPortis_Order_Page>
+    <Affiliates_iPortis_Vendor_ID></Affiliates_iPortis_Vendor_ID>
+    <Affiliates_iPortis_Product_ID></Affiliates_iPortis_Product_ID>
+    <Affiliates_iPortis_Maximum_Commission_Rate></Affiliates_iPortis_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_Type>RSS 2.0</NewsFeed_Type>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL>http://www.extralabs.net/extralabs-news.xml</NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name>ExtraLabs Software</NewsFeed_Site_Name>
+    <NewsFeed_Site_URL>http://www.extralabs.net</NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>Dmitry</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Baranow</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>support@extralabs.net</NewsFeed_Author_Email>
+    <NewsFeed_Title>ExtraLabs Software News</NewsFeed_Title>
+    <NewsFeed_Description_70>ExtraLabs Software: Software for making RSS, podcasting and image processing software. Free download.</NewsFeed_Description_70>
+    <NewsFeed_Description_250>Founded in 2002, ExtraLabs Software is a dynamically expanding software development company, focused on producing NET software for home and corporate users. We build our success on the talent and experience of our developers and ideas of our clients who inspire and guide our work in bringing to life powerful capabilities and innovative software tools. The ExtraLabs family of products includes such top sellers as Feed Mix, Feed Editor and Image Assistant.</NewsFeed_Description_250>
+  </NewsFeed>
+  <Newsfeed>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+  </Newsfeed>
+  <OnlineShops>
+    <OnlineShops_FORM>Y</OnlineShops_FORM>
+    <OnlineShops_VERSION>1.0</OnlineShops_VERSION>
+    <OnlineShops_URL>http://Submit-Everywhere.com/extensions/OnlineShops.htm</OnlineShops_URL>
+    <OnlineShops_DESCRIPTION>This PAD extension allows you to check these sites distribution agreements and decide wether you wish to sell your product through them</OnlineShops_DESCRIPTION>
+    <OnlineShops_PalmGear>on</OnlineShops_PalmGear>
+    <OnlineShops_PocketLand>on</OnlineShops_PocketLand>
+    <OnlineShops_PDAssi>on</OnlineShops_PDAssi>
+    <OnlineShops_PDATopSoft>on</OnlineShops_PDATopSoft>
+    <OnlineShops_PocketGear>on</OnlineShops_PocketGear>
+    <OnlineShops_Softonic>on</OnlineShops_Softonic>
+    <OnlineShops_Winowin>on</OnlineShops_Winowin>
+    <OnlineShops_Handango>on</OnlineShops_Handango>
+    <OnlineShops_Softahead>off</OnlineShops_Softahead>
+    <OnlineShops_SoftSearch>off</OnlineShops_SoftSearch>
+  </OnlineShops>
+  <Press_Release>
+    <Press_Release>For immediate release
+
+March 15, 2012
+
+Contact: Dmitry Baranov
+Company: ExtraLabs Software
+Title: Marketing Director
+E-mail: dmitry@extralabs.net
+
+ExtraLabs Software unveils Feed Editor 6, a fully-fledged RSS editor that offers you an easy way to create and maintain RSS feeds and podcasts.
+
+ExtraLabs Software today announces the release of Feed Editor 6. Designed for the Windows OS, this application enables you to create, edit and publish RSS feeds and podcasts surprisingly fast and easy. Compared to other RSS editors in its category, Feed Editor combines an unprecedented number of features, including a support for various RSS formats, a podcasting support, a WYSIWYG HTML editor, an XML editor, an RSS Feed preview, an FTP upload and publishing, automatic date management, and an ability to convert CSV or HTML to RSS and back and others. All this is delivered in an intuitively transparent user interface that has been meticulously written in collaboration with usability groups and real end users.
+
+Feed Editor can create and maintain an unlimited number of RSS feeds and podcasts, thus letting you maintain and distribute multiple content streams simultaneously. The best thing is that the program makes it downright simple. To create a new RSS feed, you can use a New Feed Creation wizard. It will guide you through the RSS setup process in a step by step fashion, delivering ease of use and conformance to specifications. Additional convenience comes with a built-in WYSIWIG HTML editor that allows you to edit a feed in much the same way as you would edit a word processing document. You can format the text, apply styling, and insert images and hyperlinks. Also, "Feed Editor" can generate a feed from a CSV and HTML file. Once a feed is ready, you can preview it and publish online using an FTP upload facility.
+
+Read more about Feed Editor at http://www.extralabs.net/feed-editor.htm
+Download an evaluation version to try it for free http://www.extralabs.net/FeedEditorSetup.exe
+
+Feed Editor Pricing and Availability
+
+Feed Editor 6 runs under Windows 95/98/Me/2000/NT/XP/2003/Vista and costs $39.95 (USD). Registered customers are entitled to free lifetime updates and premium technical support. Discounts for volume buyers are available. Additional information on Feed Editor 6, as well as its 30-day evaluation version is available from http://www.extralabs.net.
+
+About ExtraLabs Software
+
+ExtraLabs Software specializes in the development of RSS and image-processing software. ExtraLabs Software is the author of such products as "Feed Mix", an RSS reader with the editing ability; "Feed Editor", a fully-fledged RSS and podcast editor; "RSS Wizard", an HTML to RSS converter, "RSS Publisher", a free tool for publishing RSS Feeds, and "Image Assistant", a tool for batch-mode image processing. For more information, please visit http://www.extralabs.net</Press_Release>
+    <Headline>Feed Editor 6 released</Headline>
+    <Summary>ExtraLabs Software unveils Feed Editor 6, a fully-fledged RSS editor that offers you an easy way to create and maintain RSS feeds and podcasts.</Summary>
+    <Keywords>rss,create rss,rss creator,feed editor,xml,software,internet</Keywords>
+    <Related_URL>http://www.extralabs.net/feed-editor.htm</Related_URL>
+    <Press_Release_Plain>For immediate release
+
+March 15, 2012
+
+Contact: Dmitry Baranov
+Company: ExtraLabs Software
+Title: Marketing Director
+E-mail: dmitry@extralabs.net
+
+ExtraLabs Software unveils Feed Editor 6, a fully-fledged RSS editor that offers you an easy way to create and maintain RSS feeds and podcasts.
+
+ExtraLabs Software today announces the release of Feed Editor 6. Designed for the Windows OS, this application enables you to create, edit and publish RSS feeds and podcasts surprisingly fast and easy. Compared to other RSS editors in its category, Feed Editor combines an unprecedented number of features, including a support for various RSS formats, a podcasting support, a WYSIWYG HTML editor, an XML editor, an RSS Feed preview, an FTP upload and publishing, automatic date management, and an ability to convert CSV or HTML to RSS and back and others. All this is delivered in an intuitively transparent user interface that has been meticulously written in collaboration with usability groups and real end users.
+
+Feed Editor can create and maintain an unlimited number of RSS feeds and podcasts, thus letting you maintain and distribute multiple content streams simultaneously. The best thing is that the program makes it downright simple. To create a new RSS feed, you can use a New Feed Creation wizard. It will guide you through the RSS setup process in a step by step fashion, delivering ease of use and conformance to specifications. Additional convenience comes with a built-in WYSIWIG HTML editor that allows you to edit a feed in much the same way as you would edit a word processing document. You can format the text, apply styling, and insert images and hyperlinks. Also, "Feed Editor" can generate a feed from a CSV and HTML file. Once a feed is ready, you can preview it and publish online using an FTP upload facility.
+
+Read more about Feed Editor at http://www.extralabs.net/feed-editor.htm
+Download an evaluation version to try it for free http://www.extralabs.net/FeedEditorSetup.exe
+
+Feed Editor Pricing and Availability
+
+Feed Editor 6 runs under Windows 95/98/Me/2000/NT/XP/2003/Vista and costs $39.95 (USD). Registered customers are entitled to free lifetime updates and premium technical support. Discounts for volume buyers are available. Additional information on Feed Editor 6, as well as its 30-day evaluation version is available from http://www.extralabs.net.
+
+About ExtraLabs Software
+
+ExtraLabs Software specializes in the development of RSS and image-processing software. ExtraLabs Software is the author of such products as "Feed Mix", an RSS reader with the editing ability; "Feed Editor", a fully-fledged RSS and podcast editor; "RSS Wizard", an HTML to RSS converter, "RSS Publisher", a free tool for publishing RSS Feeds, and "Image Assistant", a tool for batch-mode image processing. For more information, please visit http://www.extralabs.net</Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>RSS Feed Editor</Site_Site_Title>
+    <Site_Site_URL>http://www.extralabs.net/feed-editor.htm</Site_Site_URL>
+    <Site_Description_100>You want to create professional RSS feeds. Feed Editor is solution for you!</Site_Description_100>
+    <Site_Description_250>You want to create professional RSS feeds but you have no time learn RSS technology. Feed Editor is solution for you! You don't need to be a computer science guru and learn Internet technologies. Our editor makes work with RSS feeds maximally simple.</Site_Description_250>
+    <Site_Keywords>create rss,feed,rss,publisher,atom,rss feed creator,maker,xml,podcast,create rss feed,publish rss feed,creating rss,create podcast,podcasting,podcaster,make rss,rss editor,feedforall</Site_Keywords>
+    <Site_Contact_First_Name>Dmitry</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Baranow</Site_Contact_Last_Name>
+    <Site_Contact_Email>support@extralabs.net</Site_Contact_Email>
+    <Site_Description_450>You want to create professional RSS feeds but you have no time learn RSS technology. Feed Editor is solution for you!
+
+Feed Editor performs all operations instead of you. It works with different RSS formats, import text from CSV and HTML files, helps you to edit HTML in WYSIWYG editor, edit XML and pictures, gives you ability view RSS feeds and publish them, support RSS feeds export to HTML, CSV and JavaScript.</Site_Description_450>
+  </Site>
+  <Program_Info>
+    <Program_Name>Feed Editor RSS Creator</Program_Name>
+    <Program_Version>6</Program_Version>
+    <Program_Release_Month>03</Program_Release_Month>
+    <Program_Release_Day>15</Program_Release_Day>
+    <Program_Release_Year>2012</Program_Release_Year>
+    <Program_Cost_Dollars>39.95</Program_Cost_Dollars>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinXP,WinVista,WinVista x64,Win7 x32,Win7 x64,Win2000,Windows2000,Windows2003,Windows Vista Ultimate,Windows Vista Ultimate x64,Win98,WinME,WinNT 3.x,WinNT 4.x,Win95,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>many new features</Program_Change_Info>
+    <Program_System_Requirements>Pentium 100, 16 mb RAM</Program_System_Requirements>
+    <Program_Category_Class>Network &amp; Internet::Other</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>6230528</File_Size_Bytes>
+      <File_Size_K>6084</File_Size_K>
+      <File_Size_MB>5.94</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>30</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Web Development :: XML,Internet :: News Readers,Internet :: Tools &amp; Utilities,Internet :: Miscellaneous,Web Development :: Web Design Utilities,Newsgroups :: News Readers,Utilities :: Network Utilities,xml,rss,web design</Program_Categories>
+    <Limitations>Fully-functional 30-day evaluation version</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.extralabs.net/feed-editor.htm</Application_Info_URL>
+      <Application_Order_URL>http://www.extralabs.net/purchase.htm</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.extralabs.net/feed-editor-01.gif</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.extralabs.net/feed-editor-icon.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.extralabs.net/feed-editor-pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.extralabs.net/FeedEditorSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>http://www.extralabs.net/FeedEditorSetup.zip</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>The trial version of Feed Editor can be freely distributed over the WWW in an unchanged form</Distribution_Permissions>
+    <EULA>END-USER LICENSE AGREEMENT
+
+
+IMPORTANT - READ CAREFULLY: This license agreement is a legal agreement between
+you (either an individual or a single entity) and ExtraLabs Software ("Manufacturer”)
+for this product (Feed Editor), including the software, possible
+media, and documentation (printed or electronic) ("Product"). By installing,
+copying, or otherwise using the Product, you agree to be bound by the terms of
+this license agreement. If you do not agree to the terms of this license
+agreement, do not install or use the Product.
+
+The Product is protected by copyright laws as well as other intellectual
+property laws and treaties. The Product is licensed, not sold.
+
+
+1. PRERELEASE CODE.
+
+1.1 This version of the product is a prerelease version that is not at the
+level of performance and compatibility of the final product offering. The
+prerelease version may not operate correctly and may be substantially modified
+prior to first commercial shipment. The license for the use of the prerelease
+version expires when the final, commercial product version becomed available.
+
+1.2 This version and this license is time-limited and expires after a date as
+mentioned in the accompanying documentation and the "About Feed Editor" window (in
+the Help menu); after that day, you may no longer use the Product, even if you
+received it after that day (e.g. from an old download source). Of course you
+are not allowed to take any measures (e.g. changing your system's date) to
+circumvent this expiration.
+The manufacturer will try and make available a new prerelease version or the
+final commercial version in time before the expiration date.
+
+
+2. USAGE, WARRANTY, LIABILITY etc.
+
+2.1 In case the media used to deliver the Product is damaged, you will receive
+a free replacement (within a sensible length of time).
+
+2.2 The faultless working of the Product can, especially due to so many
+possible system configurations, not be guaranteed.
+
+2.3 LIMITED WARRANTY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE
+MANUFACTURER AND DISTRIBUTOR DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE, WITH REGARD TO THE PRODUCT.
+
+NO LIABILITY FOR CONSEQUENTIAL DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT SHALL THE MANUFACTURER BE LIABLE FOR ANY SPECIAL,
+INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT
+LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS
+OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF
+OR INABILITY TO USE THE SOFTWARE PRODUCT, EVEN IF THE MANUFACTURER HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+2.4 You may distribute this test version as you like - to friends, to a program
+collection (online or CD etc.) - as long as you include all of and only the
+original, unmodified files, and free of charge (except maybe minimal copy
+fees).
+
+
+3. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+
+3.1 You may not reverse engineer, decompile, or disassemble the Product, except
+and only to the extent that such activity is expressly permitted by applicable
+law notwithstanding this limitation.
+
+3.2 Termination: Without prejudice to any other rights, the manufacturer may
+terminate this license agreement if you fail to comply with the terms and
+conditions of it. In such event, you must destroy all copies of the Product and
+all of its component parts.
+
+
+4. MISCELLANEOUS.
+
+4.1 All title and copyrights in and to the Product and any copies of the
+Product are owned by the manufacturer or its suppliers.
+
+4.2 All trademarks or registered trademarks used in this Product belong to
+their respective owners.
+
+4.3 Should parts of this license agreement be invalid under valid jurisdiction,
+the other parts are not influenced by this.
+
+
+(c) ExtraLabs Software 2002-2006</EULA>
+  </Permissions>
+  <ASBMPlannerID1stRound>4</ASBMPlannerID1stRound>
+  <ASBMPlannerID2ndRound>5</ASBMPlannerID2ndRound>
+  <Issues>13</Issues>
+  <Program_Descriptions>
+    <English>
+      <Keywords>create rss,feed,rss,publisher,atom,rss feed creator,maker,xml,podcast,create rss feed,publish rss feed,creating rss,create podcast,podcasting,podcaster,make rss,rss editor,feedforall</Keywords>
+      <Char_Desc_45>Feed Editor is convenient RSS feeds editor.</Char_Desc_45>
+      <Char_Desc_80>You want to create professional RSS feeds. Feed Editor is solution for you!</Char_Desc_80>
+      <Char_Desc_250>You want to create professional RSS feeds but you have no time learn RSS technology. Feed Editor is solution for you! You don't need to be a computer science guru and learn Internet technologies. Our editor makes work with RSS feeds maximally simple.</Char_Desc_250>
+      <Char_Desc_450>You want to create professional RSS feeds but you have no time learn RSS technology. Feed Editor is solution for you!  Feed Editor performs all operations instead of you. It works with different RSS formats, import text from CSV and HTML files, helps you to edit HTML in WYSIWYG editor, edit XML and pictures, gives you ability view RSS feeds and publish them, support RSS feeds export to HTML, CSV and JavaScript.</Char_Desc_450>
+      <Char_Desc_2000>You want to create professional RSS feeds but you don't want to work complicated RSS technology. Feed Editor is solution for you!
+
+You don't need to be a computer science guru and learn Internet technologies. Our editor makes work with RSS feeds maximally simple.
+
+All you need to know is what RSS feed you need. Rest is Feed Editor work.
+
+Easy-to-use and convenient interface makes work with RSS feeds maximally simple. Wizard usage saves you from mistakes during RSS feeds creation.
+
+Feed Editor performs all operations instead of you. It works with different RSS formats, import text from CSV and HTML files, helps you to edit HTML in WYSIWYG editor, edit XML and pictures, gives you ability view RSS feeds and publish them, support RSS feeds export to HTML, CSV and JavaScript.
+
+Using Feed Editor you can always support RSS feeds! Feed Editor not only creates RSS feeds but also upload them via FTP.
+
+Work with popular podcasting is also supported by Feed Editor. You can upload podcastings as simple as creates them.
+
+Using Feed Editor you will always feel free with RSS technology!</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>rss,создать rss,создание rss,создавать rss,rss канал,rss лента,подкаст,подкастинг,podcast,записать подкаст,опубликовать подкаст,создать подкаст,создать ленту,новостная лента,публикация</Keywords>
+      <Char_Desc_45>Feed Editor - удобный редактор RSS лент</Char_Desc_45>
+      <Char_Desc_80>Вы хотите создавать профессиональные RSS ленты? Feed Editor - решение для вас!</Char_Desc_80>
+      <Char_Desc_250>Вы хотите создавать профессиональные RSS ленты, но у вас катастрофически нет времени на изучение технологии RSS, тогда Feed Editor - решение для вас! Всё что вам нужно знать - это, какая лента вам нужна. Всё остальное сделает за вас Feed Editor!</Char_Desc_250>
+      <Char_Desc_450>Вы хотите создавать профессиональные RSS ленты, но у вас катастрофически нет времени на изучение технологии RSS, тогда Feed Editor - решение для вас! Feed Editor возьмёт на себя работу с различными RSS форматами, импортирует текст из CSV и HTML файлов, поможет просто отредактировать HTML в WYSIWYG редакторе, отредактирует XML и рисунки, даст возможность просмотреть полученные ленты и опубликовать их.</Char_Desc_450>
+      <Char_Desc_2000>Вы хотите создавать профессиональные RSS ленты, но у вас катастрофически нет времени на изучение технологии RSS, тогда Feed Editor - решение для вас!
+
+Вам не нужно быть гуру компьютерных наук и знать все премудрости Интернет технологий - Feed Editor максимально упростит работу с RSS лентами.
+
+Всё что вам нужно знать - это, какая лента вам нужна. Всё остальное сделает за вас Feed Editor!
+
+Простой и понятный интерфейс максимально упрощает работу с лентами, а использование мастеров избавит от ошибок при создании RSS-лент.
+
+Feed Editor возьмёт не себя работу с различными RSS форматами, импортирует текст из CSV и HTML файлов, поможет просто отредактировать HTML в WYSIWYG редакторе, отредактирует XML и рисунки, даст возможность просмотреть полученные ленты и опубликовать их, поддерживает экспорт RSS-каналов в HTML, CSV и JavaScript.
+
+С Feed Editor вы всегда сможете поддерживать ленты в актуальном состоянии - редактор позволяет докачивать RSS ленты по FTP.
+
+Работа с популярным подкастингом также доступна из Feed Editor - вы можете закачивать свои записи на подкастинг-сайты также просто, как и созвать их. Теперь программа поддерживает еще и расширения Apple iTunes.
+
+С Feed Editor вы всегда сможете чувствовать себя в мире RSS технологий!</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

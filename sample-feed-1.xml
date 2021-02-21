@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<generator>Feed Editor</generator>
+	<pubDate>5 Oct 2006 19:56:09 GMT</pubDate>
+	<title>My First RSS Feed</title>
+	<description>This is my first RSS Feed. Created with &lt;a href="http://www.extralabs.net/feed-editor.htm"&gt;Feed Editor&lt;/a&gt;</description>
+	<link>http://mywebsite.com/index.htm</link>
+	<language>en-us</language>
+	<image>
+	<url>http://www.mywebsite.com/rss-image.gif</url>
+	</image>
+	<item>
+	<title>Sample Topic: What is RSS?</title>
+	<description>An XML format for sharing content among different Web sites such as news items. How does it work? A Web site can allow other sites to publish some of its content by creating an RSS document and registers the document with an RSS publisher. A web publisher can post a link to the rss feed so users can read the distributed content on his/her site.</description>
+	<pubDate>5 Oct 2006 19:56:09 GMT</pubDate>
+	<link>http://mason.gmu.edu/~montecin/netterms.htm</link>
+	</item>
+	<item>
+	<title>Sample Topic: What is Feed Editor?</title>
+	<description>Feed Editor is a powerful and easy-to-use RSS feed editor. With this program, you will be able to not only create new RSS feeds that look professionally, but also support them and update.</description>
+	<pubDate>5 Oct 2006 19:56:09 GMT</pubDate>
+	<link>http://www.extralabs.net/feed-editor.htm</link>
+	</item>
+	<item>
+	<title>Sample Topic: What is ExtraLabs Software?</title>
+	<description>Founded in 2002, ExtraLabs Software is a dynamically expanding software development company, focused on producing NET software for home and corporate users.</description>
+	<pubDate>5 Oct 2006 19:56:09 GMT</pubDate>
+	<link>http://www.extralabs.net/products.htm</link>
+	</item>
+	</channel></rss>
