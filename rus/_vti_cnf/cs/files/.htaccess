@@ -1,0 +1,16 @@
+RewriteEngine On
+
+RewriteRule ^([0-9]+).swf$ index.php?id=2&campaignid=$1 [L]
+RewriteRule ^_([0-9]+).swf$ index.php?id=1&campaignid=$1&go=0 [L]
+RewriteRule ^__([0-9]+).swf$ index.php?id=1&campaignid=$1&go=1 [L]
+
+RewriteRule ^([0-9]+).php$ index.php?id=2&campaignid=$1&qs=%{QUERY_STRING} [L]
+RewriteRule ^([0-9]+).htm$ index.php?id=2&campaignid=$1&xy=1&qs=%{QUERY_STRING} [L]
+
+RewriteRule ^meta/([0-9]+)$ index.php?id=7&campaignid=$1 [L]
+RewriteRule ^meta2/([0-9]+)$ index.php?id=8&campaignid=$1 [L]
+RewriteRule ^meta3/([0-9]+)$ index.php?id=9&campaignid=$1 [L]
+				 
+RewriteRule ^flash.swf$ 404.html [L]
+RewriteRule ^redir.html$ 404.html [L]
+RewriteRule ^redirect.html$ 404.html [L]
